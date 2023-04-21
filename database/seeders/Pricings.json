@@ -1,0 +1,5582 @@
+[
+    {
+        "id": 1,
+        "product_name": "Adublisher",
+        "price": 49,
+        "notes": "A social media scheduling and management tool specializing Facebook platfor",
+        "tier": 1,
+        "reseller": "Daud Agha",
+        "date": "9-11-22"
+    },
+    {
+        "id": 2,
+        "product_name": "AgilityPortal",
+        "price": 100,
+        "notes": "AgilityPortal is the best intranet software for all your communication and collaboration needs",
+        "tier": 1,
+        "reseller": "Daud Agha",
+        "date": ""
+    },
+    {
+        "id": 3,
+        "product_name": "Ahsuite",
+        "price": 78,
+        "notes": "One place for sharing tasks, files, passwords, presentations, and Data Studio reports.",
+        "tier": 1,
+        "reseller": "Daud Agha",
+        "date": ""
+    },
+    {
+        "id": 4,
+        "product_name": "All-About-PDF",
+        "price": 349,
+        "notes": "All-About-PDF is a fast and powerful Windows application that is built to take advantage of your computer’s multiple processing cores for blazingly fast PDF processing.",
+        "tier": 1,
+        "reseller": "Daud Agha",
+        "date": ""
+    },
+    {
+        "id": 5,
+        "product_name": "Announceway",
+        "price": 49,
+        "notes": "ublish releases, show ideas and product roadmap for customers. Improve your product by customer feedback.",
+        "tier": 1,
+        "reseller": "Daud Agha",
+        "date": ""
+    },
+    {
+        "id": 6,
+        "product_name": "Anny. trade",
+        "price": 69,
+        "notes": "Anny.trade is a crypto trading platform that makes it easy to grow your portfolio with signal groups, trade managers, and investment bots.",
+        "tier": 1,
+        "reseller": "Daud Agha",
+        "date": ""
+    },
+    {
+        "id": 7,
+        "product_name": "Anywhere",
+        "price": 400,
+        "notes": "Send Anywhere is a file sharing application that takes an easy, quick, and unlimited approach to file sharing.",
+        "tier": 1,
+        "reseller": "Daud Agha",
+        "date": ""
+    },
+    {
+        "id": 8,
+        "product_name": "Augmented Reality and 3D Models",
+        "price": 59,
+        "notes": "Augmented-reality 3D models ready to view, buy, and download for free.",
+        "tier": 1,
+        "reseller": "Daud Agha",
+        "date": ""
+    },
+    {
+        "id": 9,
+        "product_name": "Baseline",
+        "price": 69,
+        "notes": "Baseline is a brand design and management platform that helps you generate brand guides and design assets that are always on-brand.",
+        "tier": 1,
+        "reseller": "Daud Agha",
+        "date": ""
+    },
+    {
+        "id": 10,
+        "product_name": "Beam.gg",
+        "price": 160,
+        "notes": "Beam.gg is a multiplatform, online community software designed to keep your customers fascinated with customizable, built-in gamification features.",
+        "tier": 1,
+        "reseller": "Daud Agha",
+        "date": ""
+    },
+    {
+        "id": 11,
+        "product_name": "Birdseed",
+        "price": 200,
+        "notes": "BirdSeed is an all-in-one website engagement suite featuring 12 powerful tools to help you generate leads and increase conversions.",
+        "tier": 1,
+        "reseller": "Daud Agha",
+        "date": ""
+    },
+    {
+        "id": 12,
+        "product_name": "Biteplay",
+        "price": 120,
+        "notes": "You'll be able to find your perfect audience and place your ads in front of highly targeted content.",
+        "tier": 1,
+        "reseller": "Daud Agha",
+        "date": ""
+    },
+    {
+        "id": 13,
+        "product_name": "Bl. ink",
+        "price": 180,
+        "notes": "BL.INK is a flexible short link management platform that helps you manage, monitor, and measure every click across every channel.",
+        "tier": 1,
+        "reseller": "Daud Agha",
+        "date": ""
+    },
+    {
+        "id": 14,
+        "product_name": "Blogely",
+        "price": 79,
+        "notes": "Blogely is a content creation and management app that lets you research, create, and publish content in any language.",
+        "tier": 1,
+        "reseller": "Daud Agha",
+        "date": ""
+    },
+    {
+        "id": 15,
+        "product_name": "Branded Link Shortener",
+        "price": 14,
+        "notes": "Industry-leading link management platform to brand, track and share short URLs using a custom domain name",
+        "tier": 1,
+        "reseller": "Daud Agha",
+        "date": ""
+    },
+    {
+        "id": 16,
+        "product_name": "Breeze",
+        "price": 207,
+        "notes": "Breeze is a project management tool that lets you organize, plan, and track the progress on your projects and tasks.",
+        "tier": 1,
+        "reseller": "Daud Agha",
+        "date": ""
+    },
+    {
+        "id": 17,
+        "product_name": "Brightchecker Property Inspection",
+        "price": 50,
+        "notes": "Brightchecker is a property inspection software tool.It is designed specifically for property or asset portfolio managers to compose surveys, conduct them, and produce beautiful summary reports of photos and comments captured.",
+        "tier": 1,
+        "reseller": "Daud Agha",
+        "date": ""
+    },
+    {
+        "id": 18,
+        "product_name": "Brilliant Directories",
+        "price": 89,
+        "notes": "Create Your Own Membership Sites & Business Directories",
+        "tier": 1,
+        "reseller": "Daud Agha",
+        "date": ""
+    },
+    {
+        "id": 19,
+        "product_name": "CardClan",
+        "price": 100,
+        "notes": "CardClan lets you make meaningful connections with your customers, colleagues, and community members with personalized digital cards delivered right to their inbox.",
+        "tier": 1,
+        "reseller": "Daud Agha",
+        "date": ""
+    },
+    {
+        "id": 20,
+        "product_name": "Claritee",
+        "price": 99,
+        "notes": "Smart design starts with a blueprint. Claritee is a blueprint builder for digital design projects.",
+        "tier": 1,
+        "reseller": "Daud Agha",
+        "date": ""
+    },
+    {
+        "id": 21,
+        "product_name": "Clicki",
+        "price": 99,
+        "notes": "Clicki makes it easy for your customers to enroll, promote & earn cash rewards for promoting your business in places where other people just like them hangout.",
+        "tier": 1,
+        "reseller": "Daud Agha",
+        "date": ""
+    },
+    {
+        "id": 22,
+        "product_name": "CoinStats",
+        "price": 196,
+        "notes": "Manage Your Crypto and DeFi Portfolio From One Place",
+        "tier": 1,
+        "reseller": "Daud Agha",
+        "date": ""
+    },
+    {
+        "id": 23,
+        "product_name": "ConnectJD - Document Automation",
+        "price": 350,
+        "notes": "Use our software to easily automate your frequently used legal documents. Turn your word documents into online templates. Merge, fill and generate legal documents in minutes.",
+        "tier": 1,
+        "reseller": "Daud Agha",
+        "date": ""
+    },
+    {
+        "id": 24,
+        "product_name": "Convertbloom",
+        "price": 69,
+        "notes": "Outcompete in the digital playground, with powerfully simple email, chatbot, social, mobile marketing and funnel tools for multi-channel commerce. Minimal learning curve and no-surprise rapid results.",
+        "tier": 1,
+        "reseller": "Daud Agha",
+        "date": ""
+    },
+    {
+        "id": 25,
+        "product_name": "Creaitor .ai - The AI Writing Tool",
+        "price": 89,
+        "notes": "Stop spending so much time writing blog articles, social media posts, and sales emails.Artificial intelligence makes it fast & easy to create content for your blog, social media, website, and more.Creaitor.ai is the best-priced AI tool on the market.",
+        "tier": 1,
+        "reseller": "Daud Agha",
+        "date": ""
+    },
+    {
+        "id": 26,
+        "product_name": "Dashed AI",
+        "price": 69,
+        "notes": "Connect your LinkedIn and Email inboxes to your CRM based on intent Gain invaluable insights on your B2B sales with our 20+ KPIs Save hours a month",
+        "tier": 1,
+        "reseller": "Daud Agha",
+        "date": ""
+    },
+    {
+        "id": 27,
+        "product_name": "DebugTool",
+        "price": 59,
+        "notes": "DebugTool is a visual debugger that will help your company to be more efficient and effective.",
+        "tier": 1,
+        "reseller": "Daud Agha",
+        "date": ""
+    },
+    {
+        "id": 28,
+        "product_name": "Decktopus",
+        "price": 150,
+        "notes": "Decktopus is an intelligent document creation tool that takes the stress out of slide decks with professional, pre-created document structures and customizable designs.",
+        "tier": 1,
+        "reseller": "Daud Agha",
+        "date": ""
+    },
+    {
+        "id": 29,
+        "product_name": "DeskCove Employee Time Tracker",
+        "price": 59,
+        "notes": "DeskCove employee time tracking software allows your teams to track work hours spent on every single project and task. Anyone can easily start and stop the timer from the Mac, Windows, or Linux desktop apps.",
+        "tier": 1,
+        "reseller": "Daud Agha",
+        "date": ""
+    },
+    {
+        "id": 30,
+        "product_name": "DMARC Report $69",
+        "price": 69,
+        "notes": "DMARC Report protects email domains against fraud and helps improve compliance and deliverability with enterprise-level reporting.",
+        "tier": 1,
+        "reseller": "Daud Agha",
+        "date": ""
+    },
+    {
+        "id": 31,
+        "product_name": "DocPro $129",
+        "price": 129,
+        "notes": "DocPro saves you time and money with over 2000 templates that are reviewed by lawyers, easily customizable to fit your needs and protect your interest.",
+        "tier": 1,
+        "reseller": "Daud Agha",
+        "date": ""
+    },
+    {
+        "id": 32,
+        "product_name": "Dropshipping. com - $149",
+        "price": 149,
+        "notes": "We deliver hand-picked trending products for premium users only each day to show you which have the highest dropshipping potential.",
+        "tier": 1,
+        "reseller": "Daud Agha",
+        "date": ""
+    },
+    {
+        "id": 33,
+        "product_name": "Droptrim $79",
+        "price": 79,
+        "notes": "With Droptrim tracking code, convert your website visitors into paying customers.",
+        "tier": 1,
+        "reseller": "Daud Agha",
+        "date": ""
+    },
+    {
+        "id": 34,
+        "product_name": "Dukkan $289",
+        "price": 289,
+        "notes": "Get your store up and running in less than 30 seconds. It's really that easy!",
+        "tier": 1,
+        "reseller": "Daud Agha",
+        "date": ""
+    },
+    {
+        "id": 35,
+        "product_name": "Eazybe - Powering Whatsapp for Work $49",
+        "price": 49,
+        "notes": "Eazybe - If you are a Whatsapp first company then you should use Eazybe to manage your daily work",
+        "tier": 1,
+        "reseller": "Daud Agha",
+        "date": ""
+    },
+    {
+        "id": 36,
+        "product_name": "ECOMPLY",
+        "price": "$99",
+        "notes": "All essential tools and document templates in one place - for your GDPR compliance setup.",
+        "tier": 1,
+        "reseller": "Daud Agha",
+        "date": ""
+    },
+    {
+        "id": 37,
+        "product_name": "EMP DJ",
+        "price": "$99",
+        "notes": "EMP DJ uses an easy to follow, proven system to manage your mobile DJ business to it's peak ability whilst automating repetitive tasks. Get in control and stay on top of your DJ business for Good",
+        "tier": 1,
+        "reseller": "Daud Agha",
+        "date": ""
+    },
+    {
+        "id": 38,
+        "product_name": "Empuls",
+        "price": "$79",
+        "notes": "Enhance company culture with an all-in-one employee engagement platform",
+        "tier": 1,
+        "reseller": "Daud Agha",
+        "date": ""
+    },
+    {
+        "id": 39,
+        "product_name": "Encharge",
+        "price": "$100",
+        "notes": "Automated email marketing campaigns with behavior-based segmentation",
+        "tier": 1,
+        "reseller": "Daud Agha",
+        "date": ""
+    },
+    {
+        "id": 40,
+        "product_name": "ExcelWay",
+        "price": "$59",
+        "notes": "Run productive brainstorms and streamline project management on one platform",
+        "tier": 1,
+        "reseller": "Daud Agha",
+        "date": ""
+    },
+    {
+        "id": 41,
+        "product_name": "Eye One",
+        "price": "$60",
+        "notes": "We are the global leader in color trends, science and technology. By blending the art and science of color, we help your business achieve the highest level of color integrity so your product - and your customer's product - comes out ahead.",
+        "tier": 1,
+        "reseller": "Daud Agha",
+        "date": ""
+    },
+    {
+        "id": 42,
+        "product_name": "EyeValuate",
+        "price": "$99",
+        "notes": "-",
+        "tier": 1,
+        "reseller": "Daud Agha",
+        "date": ""
+    },
+    {
+        "id": 43,
+        "product_name": "EzyVue",
+        "price": "$79",
+        "notes": "Transform the way customers view your products and boost sales with EzyVue 3D viewer",
+        "tier": 1,
+        "reseller": "Daud Agha",
+        "date": ""
+    },
+    {
+        "id": 44,
+        "product_name": "Feedbear",
+        "price": "$100",
+        "notes": "FeedBear lets users submit ideas and feature requests that you can track with public roadmaps and changelogs.",
+        "tier": 1,
+        "reseller": "Daud Agha",
+        "date": ""
+    },
+    {
+        "id": 45,
+        "product_name": "Flotiq",
+        "price": "$299",
+        "notes": "Flotiq is a headless CMS that lets your teams create and share content across multiple channels with auto-generated, compliant APIs.",
+        "tier": 1,
+        "reseller": "Daud Agha",
+        "date": ""
+    },
+    {
+        "id": 46,
+        "product_name": "Formaloo",
+        "price": "$399",
+        "notes": "Build beautiful forms, access-controlled databases, and highly customizable business apps without any code - all in one place",
+        "tier": 1,
+        "reseller": "Daud Agha",
+        "date": ""
+    },
+    {
+        "id": 47,
+        "product_name": "Gitential",
+        "price": "$100",
+        "notes": "Gitential is an Engineering Intelligence app that brings visibility and optimization highlights on teams’ productivity.",
+        "tier": 1,
+        "reseller": "Daud Agha",
+        "date": ""
+    },
+    {
+        "id": 48,
+        "product_name": "Google Maps Scraper by Outscraper",
+        "price": "$79",
+        "notes": "Google Maps Scraper allows exporting local business contacts from Google Maps into a CSV/XLSX/Parquet/JSON file via the Outscraper platform.",
+        "tier": 1,
+        "reseller": "Daud Agha",
+        "date": ""
+    },
+    {
+        "id": 49,
+        "product_name": "GP Group Poster",
+        "price": "$299",
+        "notes": "The Toolkit For Bloggers and Marketers To Post Content Automatically To ANY Facebook and LinkedIn Group.",
+        "tier": 1,
+        "reseller": "Daud Agha",
+        "date": ""
+    },
+    {
+        "id": 50,
+        "product_name": "Grist",
+        "price": "$120",
+        "notes": "Grist is a powerful, customizable data tool that combines the versatility of spreadsheets with the robustness of databases.",
+        "tier": 1,
+        "reseller": "Daud Agha",
+        "date": ""
+    },
+    {
+        "id": 51,
+        "product_name": "Growmatik",
+        "price": "$69",
+        "notes": "Growmatik is a cross-channel marketing automation platform that allows you to create highly targeted web content, emails, and pop-ups.",
+        "tier": 1,
+        "reseller": "Daud Agha",
+        "date": ""
+    },
+    {
+        "id": 52,
+        "product_name": "Hello CRM",
+        "price": "$197",
+        "notes": "HelloCRM is WhatsApp automated marketing software to automate your WhatsApp message to reduce your repetative job on daily task.",
+        "tier": 1,
+        "reseller": "Daud Agha",
+        "date": ""
+    },
+    {
+        "id": 53,
+        "product_name": "Hy. page",
+        "price": "$49",
+        "notes": "Hy.page is a platform that allows you to create and customize your bio link page to generate revenue by selling products and memberships without paying fees.",
+        "tier": 1,
+        "reseller": "Daud Agha",
+        "date": ""
+    },
+    {
+        "id": 54,
+        "product_name": "IdeaBuddy",
+        "price": "$89",
+        "notes": "With IdeaBuddy, you can collaborate with others and easily build a business model, develop ideas in detail, make financial projections, validate your ideas, and create a modern business plan.",
+        "tier": 1,
+        "reseller": "Daud Agha",
+        "date": ""
+    },
+    {
+        "id": 55,
+        "product_name": "iLert",
+        "price": "$69",
+        "notes": "iLert is an uptime monitoring platform that helps you respond faster to critical alerts, manage on-call schedules, and communicate incidents via status pages.",
+        "tier": 1,
+        "reseller": "Daud Agha",
+        "date": ""
+    },
+    {
+        "id": 56,
+        "product_name": "Inbox Gold",
+        "price": "$149",
+        "notes": "InboxGold provides access to >200 million contacts and >20 million US company profiles. Also, receive company prospects to your inbox and see who's visiting your website.",
+        "tier": 1,
+        "reseller": "Daud Agha",
+        "date": ""
+    },
+    {
+        "id": 57,
+        "product_name": "Invoiless",
+        "price": "$69",
+        "notes": "Invoiless helps small to medium business owners, freelancers, and developers to create, send, manage and keep track of all invoices in one place.",
+        "tier": 1,
+        "reseller": "Daud Agha",
+        "date": ""
+    },
+    {
+        "id": 58,
+        "product_name": "Jumppl",
+        "price": "$150",
+        "notes": "Jumppl is a modern project and team management platform with chat, client portals, calendars, and other tools to help your business stay productive.",
+        "tier": 1,
+        "reseller": "Daud Agha",
+        "date": ""
+    },
+    {
+        "id": 59,
+        "product_name": "Killer Player",
+        "price": "$80",
+        "notes": "KillerPlayer.com is a custom YouTube Video Player that removes YouTube logo, titles, ads, recommended videos and offers 5 beautiful video player themes with unlimited color options. Now you can embed YouTube videos using these themes to stand out from the crowd",
+        "tier": 1,
+        "reseller": "Daud Agha",
+        "date": ""
+    },
+    {
+        "id": 60,
+        "product_name": "Kiripp",
+        "price": "$60",
+        "notes": "Kiripp works in any device leveraging your existing apps such as WhatsApp, SMS, Email or just the web browser. No additional apps or complicated setups to you or your users.",
+        "tier": 1,
+        "reseller": "Daud Agha",
+        "date": ""
+    },
+    {
+        "id": 61,
+        "product_name": "Knowtworthy",
+        "price": "$179",
+        "notes": "Knowtworthy is a meeting management platform that maximizes meeting productivity with collaborative minutes and real-time transcriptions.",
+        "tier": 1,
+        "reseller": "Daud Agha",
+        "date": ""
+    },
+    {
+        "id": 62,
+        "product_name": "Kure",
+        "price": "$59",
+        "notes": "Kure is a project management app that uses AI to create customized process optimization paths, helping your team work more efficiently and reduce errors.",
+        "tier": 1,
+        "reseller": "Daud Agha",
+        "date": ""
+    },
+    {
+        "id": 63,
+        "product_name": "Labiknow",
+        "price": "$400",
+        "notes": "LabiKnow is Knowledge Base Software built for SaaS Companies, Tech Companies, eCommerce Companies and other niches.",
+        "tier": 1,
+        "reseller": "Daud Agha",
+        "date": ""
+    },
+    {
+        "id": 64,
+        "product_name": "Larapush",
+        "price": "$1,001",
+        "notes": "LaraPush is a self-hosted push notification panel that comes with a one-time cost and lets you add unlimited domains, collect unlimited subscribers and send unlimited campaigns for unlimited period of time.",
+        "tier": 1,
+        "reseller": "Daud Agha",
+        "date": ""
+    },
+    {
+        "id": 65,
+        "product_name": "Lead Scrape",
+        "price": "$59",
+        "notes": "Lead Scrape helps you find B2B leads in any category. For each lead you can get the business name, address, phone, website, email, contact name, social media properties, Seo data, lat/long and more!",
+        "tier": 1,
+        "reseller": "Daud Agha",
+        "date": ""
+    },
+    {
+        "id": 66,
+        "product_name": "LeadLabs",
+        "price": "$99",
+        "notes": "A simple way to engage with online visitors and turn them into leads",
+        "tier": 1,
+        "reseller": "Daud Agha",
+        "date": ""
+    },
+    {
+        "id": 67,
+        "product_name": "LeadPal",
+        "price": "$39",
+        "notes": "Use LeadPal to generate email leads from: Facebook, Twitter, LinkedIn, Amazon, Yahoo, Apple, Google & Microsoft.",
+        "tier": 1,
+        "reseller": "Daud Agha",
+        "date": ""
+    },
+    {
+        "id": 68,
+        "product_name": "Leanbe",
+        "price": "$69",
+        "notes": "Leanbe is a platform that helps you collect user feedback, make a data-driven product roadmap, and announce product updates.",
+        "tier": 1,
+        "reseller": "Daud Agha",
+        "date": ""
+    },
+    {
+        "id": 69,
+        "product_name": "LessHire",
+        "price": "$39",
+        "notes": "LessHire.com is a simple Applicant Tracking System, hiring software for small businesses.",
+        "tier": 1,
+        "reseller": "Daud Agha",
+        "date": ""
+    },
+    {
+        "id": 70,
+        "product_name": "LiveCaller",
+        "price": "$60",
+        "notes": "LiveCaller is all in one solution that combines different communication channels (Chat, Call, Callback, Social Messaging Apps) into one platform.",
+        "tier": 1,
+        "reseller": "Daud Agha",
+        "date": ""
+    },
+    {
+        "id": 71,
+        "product_name": "Mail Warm",
+        "price": "$49",
+        "notes": "Mail Warm keeps you out of the spam box, plain and simple",
+        "tier": 1,
+        "reseller": "Daud Agha",
+        "date": ""
+    },
+    {
+        "id": 72,
+        "product_name": "Mailboosta",
+        "price": "$200",
+        "notes": "MailBoosta is a software that allows you to add elements that trigger more interaction and click on your emails",
+        "tier": 1,
+        "reseller": "Daud Agha",
+        "date": ""
+    },
+    {
+        "id": 73,
+        "product_name": "Mailcheck",
+        "price": "$59",
+        "notes": "Get assured your mailing list contains only real emails addresses, get rid of bots and inactive users",
+        "tier": 1,
+        "reseller": "Daud Agha",
+        "date": ""
+    },
+    {
+        "id": 74,
+        "product_name": "Mailman",
+        "price": "$69",
+        "notes": "Mailman protects you from your inbox — minimizing interruptions and making your days more productive.",
+        "tier": 1,
+        "reseller": "Daud Agha",
+        "date": ""
+    },
+    {
+        "id": 75,
+        "product_name": "ManageCV",
+        "price": "$69",
+        "notes": "ManageCV is A SaaS Platform that helps professionals to create, and manage their resumes/CV's in a modern and professional way within a few minutes, lets them create portfolio based websites, post updates to their website through the ManageCV dashboard, and helps them rise better with maximum chances to be hired while going for an interview at an affordable price.",
+        "tier": 1,
+        "reseller": "Daud Agha",
+        "date": ""
+    },
+    {
+        "id": 76,
+        "product_name": "Markettailor",
+        "price": "$79",
+        "notes": "Markettailor helps you create data-driven landing pages for B2B leads with audience segmentation, conversion tracking, and A/B testing.",
+        "tier": 1,
+        "reseller": "Daud Agha",
+        "date": ""
+    },
+    {
+        "id": 77,
+        "product_name": "Marvelous Starter Plan",
+        "price": "$77",
+        "notes": "Marvelous is an all-in-one teaching platform for creators that gets you from idea to teaching online classes in a professionally-built virtual studio in MINUTES.",
+        "tier": 1,
+        "reseller": "Daud Agha",
+        "date": ""
+    },
+    {
+        "id": 78,
+        "product_name": "MetaSurvey - \"Tinder-like\" Surveys",
+        "price": "$58",
+        "notes": "MetaSurvey provides user-friendly question types (NPS, Ratings, Multiple, Comment). All surveys are well adapted for all devices. Get a high completion rate up to 90%!",
+        "tier": 1,
+        "reseller": "Daud Agha",
+        "date": ""
+    },
+    {
+        "id": 79,
+        "product_name": "Mob App Builder",
+        "price": "$200",
+        "notes": "Create an app with the most powerful mobile app builder",
+        "tier": 1,
+        "reseller": "Daud Agha",
+        "date": ""
+    },
+    {
+        "id": 80,
+        "product_name": "Mobilzer",
+        "price": "$49",
+        "notes": "Mobilzer is a no-code app builder that makes it easy to launch mobile apps for iPhones and Androids, so you can sell online instantly.",
+        "tier": 1,
+        "reseller": "Daud Agha",
+        "date": ""
+    },
+    {
+        "id": 81,
+        "product_name": "Modules Composer - Online Email Builder",
+        "price": "$49",
+        "notes": "Design your Email Templates without writing a line of code. Modules Composer is one of the easiest email builders to use for email design production.",
+        "tier": 1,
+        "reseller": "Daud Agha",
+        "date": ""
+    },
+    {
+        "id": 82,
+        "product_name": "Mokapen",
+        "price": "$199",
+        "notes": "Mokapen is a CRM that lets you manage team activity, resolve support tickets, and join a professional marketplace to grow your network.",
+        "tier": 1,
+        "reseller": "Daud Agha",
+        "date": ""
+    },
+    {
+        "id": 83,
+        "product_name": "MsgsHQ",
+        "price": "$53",
+        "notes": "MsgsHQ is the call center software you need for your customer-centric teams right from day 0.",
+        "tier": 1,
+        "reseller": "Daud Agha",
+        "date": ""
+    },
+    {
+        "id": 84,
+        "product_name": "MultiLings - Translate Text & Files",
+        "price": "$59",
+        "notes": "-",
+        "tier": 1,
+        "reseller": "Daud Agha",
+        "date": ""
+    },
+    {
+        "id": 85,
+        "product_name": "Myfundbox",
+        "price": "$150",
+        "notes": "MYFUNDBOX lets you breeze through online billing with automated one-off and recurring subscription payments.",
+        "tier": 1,
+        "reseller": "Daud Agha",
+        "date": ""
+    },
+    {
+        "id": 86,
+        "product_name": "Native Forms",
+        "price": "$60",
+        "notes": "Build forms, surveys & polls for all platforms",
+        "tier": 1,
+        "reseller": "Daud Agha",
+        "date": ""
+    },
+    {
+        "id": 87,
+        "product_name": "Never Spam",
+        "price": "$200",
+        "notes": "NeverSpam plugs into your email accounts to monitor sender reputation and prevent your cold emails landing in spam",
+        "tier": 1,
+        "reseller": "Daud Agha",
+        "date": ""
+    },
+    {
+        "id": 88,
+        "product_name": "Nexweave",
+        "price": "$59",
+        "notes": "Nexweave helps you create hyper-personalized images, GIFs, and interactive videos to display in emails, LinkedIn messages, chatbots, and web pages.",
+        "tier": 1,
+        "reseller": "Daud Agha",
+        "date": ""
+    },
+    {
+        "id": 89,
+        "product_name": "Nocode",
+        "price": "$69",
+        "notes": "A complete guide that will make you a no-coder! Learn everything without spending months.",
+        "tier": 1,
+        "reseller": "Daud Agha",
+        "date": ""
+    },
+    {
+        "id": 90,
+        "product_name": "Noota",
+        "price": "$69",
+        "notes": "No more note-taking, Noota assists you on all your conversations.",
+        "tier": 1,
+        "reseller": "Daud Agha",
+        "date": ""
+    },
+    {
+        "id": 91,
+        "product_name": "Notulen Software PRO",
+        "price": "$99",
+        "notes": "Notulen Software helps you to manage all your meetings and interactions. Use meeting templates for your repeating meetings and interactions, for example: daily standups, sales meetings, project meetings",
+        "tier": 1,
+        "reseller": "Daud Agha",
+        "date": ""
+    },
+    {
+        "id": 92,
+        "product_name": "Novel",
+        "price": "$89",
+        "notes": "The Novel Factory helps guide new writers through the novel writing process - while completing your first manuscript.",
+        "tier": 1,
+        "reseller": "Daud Agha",
+        "date": ""
+    },
+    {
+        "id": 93,
+        "product_name": "OnMap",
+        "price": "$49",
+        "notes": "At OnMap, business owners can create a full detailed profile about their business, post services ads, receive leads and customer reviews.",
+        "tier": 1,
+        "reseller": "Daud Agha",
+        "date": ""
+    },
+    {
+        "id": 94,
+        "product_name": "Options Road Backtester",
+        "price": "$149",
+        "notes": "Options Road Backtester is also a great way to learn more about options trading. It allows traders to practice their skills with no real money at stake, so they get better faster.",
+        "tier": 1,
+        "reseller": "Daud Agha",
+        "date": ""
+    },
+    {
+        "id": 95,
+        "product_name": "Opus●Guide",
+        "price": "$65",
+        "notes": "Opus●Guide makes it quick and easy to create and manage process documentation. We created a tool that is simple but still useful, keeping in mind how much effort it often takes to create and manage process documents.",
+        "tier": 1,
+        "reseller": "Daud Agha",
+        "date": ""
+    },
+    {
+        "id": 96,
+        "product_name": "Overlay",
+        "price": "$44",
+        "notes": "Overlay helps designers and developers convert their Figma components into clean and reusable React, Vue.js and Html code, with a simple Plugin.",
+        "tier": 1,
+        "reseller": "Daud Agha",
+        "date": ""
+    },
+    {
+        "id": 97,
+        "product_name": "PAL by BEYABLE",
+        "price": "$49",
+        "notes": "The easiest tool to get more conversions with the same traffic.",
+        "tier": 1,
+        "reseller": "Daud Agha",
+        "date": ""
+    },
+    {
+        "id": 98,
+        "product_name": "Parallel",
+        "price": "$399",
+        "notes": "Parallel is a wellness and social platform for the workplace, with an emphasis on creating meaningful one-to-one connections and social communities between coworkers.",
+        "tier": 1,
+        "reseller": "Daud Agha",
+        "date": ""
+    },
+    {
+        "id": 99,
+        "product_name": "Pathlevels",
+        "price": "$97",
+        "notes": "Pathlevels is a course builder that allows coaches, consultants, and course developers to segment dream clients on the fly, increase pricing, and automate 1:1 delivery.",
+        "tier": 1,
+        "reseller": "Daud Agha",
+        "date": ""
+    },
+    {
+        "id": 100,
+        "product_name": "Payhere",
+        "price": "$99",
+        "notes": "Payhere is an easy-to-use user interface on top of your Stripe account, with no code required.",
+        "tier": 1,
+        "reseller": "Daud Agha",
+        "date": ""
+    },
+    {
+        "id": 101,
+        "product_name": "Paypersafe",
+        "price": "$200",
+        "notes": "Paypersafe is a tool that allows you to create intelligent all-in-one digital safe to manage your online business, without computer knowledge. NO CODES.",
+        "tier": 1,
+        "reseller": "Daud Agha",
+        "date": ""
+    },
+    {
+        "id": 102,
+        "product_name": "Pipeone",
+        "price": "$99",
+        "notes": "PipeOne.me also gets your business ready to send and receive messages globally, offers a great timeline view with all the history per contact, and includes dozens of other great features for your business.",
+        "tier": 1,
+        "reseller": "Daud Agha",
+        "date": ""
+    },
+    {
+        "id": 103,
+        "product_name": "Poirot",
+        "price": "$60",
+        "notes": "Poirot helps you collect thousands of leads in a month by accelerating your prospect email search and reducing the cost per lead.",
+        "tier": 1,
+        "reseller": "Daud Agha",
+        "date": ""
+    },
+    {
+        "id": 104,
+        "product_name": "Popupular",
+        "price": "$99",
+        "notes": "Popular makes it easy to integrate a sign up form, explanation video or a help article, or anything else into a popup, you can fully control, with just a few clicks.",
+        "tier": 1,
+        "reseller": "Daud Agha",
+        "date": ""
+    },
+    {
+        "id": 105,
+        "product_name": "Portant Data Merge",
+        "price": "$99",
+        "notes": "Data merge from Google Sheets, Google Forms or Trello into Docs and Sheets",
+        "tier": 1,
+        "reseller": "Daud Agha",
+        "date": ""
+    },
+    {
+        "id": 106,
+        "product_name": "PPC Ad Editor",
+        "price": "$49",
+        "notes": "With PPC Ad Editor, you can view/share you entire campaign (ad groups, ads, keywords & extensions) securely online with a link.",
+        "tier": 1,
+        "reseller": "Daud Agha",
+        "date": ""
+    },
+    {
+        "id": 107,
+        "product_name": "PPC for Hotels",
+        "price": "$79",
+        "notes": "PPC for Hotels is a niche hotel PPC agency package for individual hotels, hotel groups/chains, and hotel marketing agencies. Travel operators and affiliates can also use it.",
+        "tier": 1,
+        "reseller": "Daud Agha",
+        "date": ""
+    },
+    {
+        "id": 108,
+        "product_name": "Privasee - GDPR for SMEs",
+        "price": "$59",
+        "notes": "Privasee is an AI-powered GDPR compliance solution for SMEs. Forget spending $$$ with lawyers and dealing with the complexity of GDPR.",
+        "tier": 1,
+        "reseller": "Daud Agha",
+        "date": ""
+    },
+    {
+        "id": 109,
+        "product_name": "ProductDyno",
+        "price": "$69",
+        "notes": "ProductDyno is a content delivery platform that helps you create and sell memberships, video courses, and digital products.",
+        "tier": 1,
+        "reseller": "Daud Agha",
+        "date": ""
+    },
+    {
+        "id": 110,
+        "product_name": "ProductLift",
+        "price": "$49",
+        "notes": "ProductLift is a tool for product & marketing teams that solves these problems by letting you prioritize your roadmap in real-time with live user feedback, create changelogs, share your roadmap, and see an overview of everything that has been developed so far.",
+        "tier": 1,
+        "reseller": "Daud Agha",
+        "date": ""
+    },
+    {
+        "id": 111,
+        "product_name": "Produktly",
+        "price": "$79",
+        "notes": "Produktly helps you to empower your users to reach the full potential your product offers, with our intuitive and helpful product tours you can onboard and guide your users through your product.",
+        "tier": 1,
+        "reseller": "Daud Agha",
+        "date": ""
+    },
+    {
+        "id": 112,
+        "product_name": "Profitizer",
+        "price": "$99",
+        "notes": "A neat dashboard and functions such as business and product P&L's, along with the ability to create portfolios so you can compare products and groups of products, makes Profitizer a simple yet easily understandable tool that tells you how profitable your products are.",
+        "tier": 1,
+        "reseller": "Daud Agha",
+        "date": ""
+    },
+    {
+        "id": 113,
+        "product_name": "Pushfy",
+        "price": "$49",
+        "notes": "Pushfy boosts conversions on your website with easy to use setup and just one line of javascript code.It is made for publishers, news websites, blogs, directories, small business websites who want to grow their businesses.",
+        "tier": 1,
+        "reseller": "Daud Agha",
+        "date": ""
+    },
+    {
+        "id": 114,
+        "product_name": "Qiwio",
+        "price": "$100",
+        "notes": "Qiwio is a video marketing automation platform that uses interactive video elements like questions, CTA buttons, and forms for better engagement and conversions.",
+        "tier": 1,
+        "reseller": "Daud Agha",
+        "date": ""
+    },
+    {
+        "id": 115,
+        "product_name": "QuickReviewer",
+        "price": "$200",
+        "notes": "QuickReviewer is an online proofing software that enables creative teams to get faster reviews and approvals on videos, PDFs, HTML, and images.",
+        "tier": 1,
+        "reseller": "Daud Agha",
+        "date": ""
+    },
+    {
+        "id": 116,
+        "product_name": "Quilobot",
+        "price": "$60",
+        "notes": "QuillBot's paraphrasing tool helps millions of people rewrite and enhance any sentence, paragraph, or article using state-of-the-art AI.",
+        "tier": 1,
+        "reseller": "Daud Agha",
+        "date": ""
+    },
+    {
+        "id": 117,
+        "product_name": "RADAAR",
+        "price": "$59",
+        "notes": "RADAAR is an all-in-one social media management platform designed for handling multiple social media profiles. It helps small and mid-size enterprises at every step, from scheduling and publishing posts on their profiles to analyzing their efforts.",
+        "tier": 1,
+        "reseller": "Daud Agha",
+        "date": ""
+    },
+    {
+        "id": 118,
+        "product_name": "Ranktracker",
+        "price": "$149",
+        "notes": "Ranktracker - See exactly how your SEO campaigns are performing - monitor your site as it moves up or down the search engine results",
+        "tier": 1,
+        "reseller": "Daud Agha",
+        "date": ""
+    },
+    {
+        "id": 119,
+        "product_name": "Reelevant for Sales",
+        "price": "$79",
+        "notes": "Email Intelligence tech to send smart & customized emails",
+        "tier": 1,
+        "reseller": "Daud Agha",
+        "date": ""
+    },
+    {
+        "id": 120,
+        "product_name": "Revyu - AI Powered Reviews",
+        "price": "$70",
+        "notes": "Revyu helps your customers generate reviews for your product easily, which encourages them to go beyond the standard responses and give more detailed, helpful reviews.",
+        "tier": 1,
+        "reseller": "Daud Agha",
+        "date": ""
+    },
+    {
+        "id": 121,
+        "product_name": "RocketScrape",
+        "price": "$149",
+        "notes": "RocketScrape API helps scrape HTML or JSON from any page just in a single API request.",
+        "tier": 1,
+        "reseller": "Daud Agha",
+        "date": ""
+    },
+    {
+        "id": 122,
+        "product_name": "Sales Blink",
+        "price": "$80",
+        "notes": "Find leads, build personalized sales outreach campaigns, automate followups, schedule meetings, close deals and 10x your revenue",
+        "tier": 1,
+        "reseller": "Daud Agha",
+        "date": ""
+    },
+    {
+        "id": 123,
+        "product_name": "Sales Simplify",
+        "price": "$109",
+        "notes": "Sales Simplify – The Ultimate Sales Machine – An all-in-one AI-powered sales automation and engagement platform with built-in CRM and cloud communication channels.",
+        "tier": 1,
+        "reseller": "Daud Agha",
+        "date": ""
+    },
+    {
+        "id": 124,
+        "product_name": "SaturnOne .io Website & Funnel Analytics",
+        "price": "$59",
+        "notes": "Analytics For Content Marketing",
+        "tier": 1,
+        "reseller": "Daud Agha",
+        "date": ""
+    },
+    {
+        "id": 125,
+        "product_name": "Sealit",
+        "price": "$69",
+        "notes": "Sealit is a Zero Trust data protection platform that secures confidential emails and files in a single click, without passwords.",
+        "tier": 1,
+        "reseller": "Daud Agha",
+        "date": ""
+    },
+    {
+        "id": 126,
+        "product_name": "Seqwa",
+        "price": "$150",
+        "notes": "Seqwa is a cost-effective, cloud-based REST-API search solution that’s easy to use. It can be configured securely in a fraction of the time it takes to build an in-house solution. Jumpstart your search strategy from day one and give your business the functionality needed to stay ahead of the competition.",
+        "tier": 1,
+        "reseller": "Daud Agha",
+        "date": ""
+    },
+    {
+        "id": 127,
+        "product_name": "Serpple",
+        "price": "$69",
+        "notes": "A highly advanced & accurate rank tracker that stands ahead of all standard rank tracking tool.",
+        "tier": 1,
+        "reseller": "Daud Agha",
+        "date": ""
+    },
+    {
+        "id": 128,
+        "product_name": "SheerSEO",
+        "price": "$75",
+        "notes": "SheerSEO is an SEO platform that helps you analyze and optimize your keyword and backlink strategies, as well as monitor your site health.",
+        "tier": 1,
+        "reseller": "Daud Agha",
+        "date": ""
+    },
+    {
+        "id": 129,
+        "product_name": "Simpliworks",
+        "price": "$79",
+        "notes": "Simpliworks is a one-click Amazon campaign builder that helps you launch agency-level PPC campaigns on autopilot.",
+        "tier": 1,
+        "reseller": "Daud Agha",
+        "date": ""
+    },
+    {
+        "id": 130,
+        "product_name": "Simply Done Legal",
+        "price": "$98",
+        "notes": "SDL’s easy-to-use Legal Empowerment Systems help you protect your online business and website without spending hours and hours searching on Google or using your kid’s college fund to hire a team of overpriced lawyers.",
+        "tier": 1,
+        "reseller": "Daud Agha",
+        "date": ""
+    },
+    {
+        "id": 131,
+        "product_name": "Skreen",
+        "price": "$100",
+        "notes": "SKreen is a web-based conferencing platform that makes video calling accessible, convenient, and manageable using white-label and monetization features.",
+        "tier": 1,
+        "reseller": "Daud Agha",
+        "date": ""
+    },
+    {
+        "id": 132,
+        "product_name": "Smarkez",
+        "price": "$100",
+        "notes": "With Smarkez you can create open or private app lists, install add-ons, navigate with the browser, and split view to manage all your accounts in a single page.",
+        "tier": 1,
+        "reseller": "Daud Agha",
+        "date": ""
+    },
+    {
+        "id": 133,
+        "product_name": "Sniply",
+        "price": "$69",
+        "notes": "Sniply is a powerful link shortener that lets you add CTAs to webpages, including content from other websites.",
+        "tier": 1,
+        "reseller": "Daud Agha",
+        "date": ""
+    },
+    {
+        "id": 134,
+        "product_name": "Sparrow",
+        "price": "$59",
+        "notes": "Leverage Sparrow to automate your marketing reporting",
+        "tier": 1,
+        "reseller": "Daud Agha",
+        "date": ""
+    },
+    {
+        "id": 135,
+        "product_name": "Sphere Real Estate Timeline",
+        "price": "$49",
+        "notes": "Sphere was designed by industry veterans to make it easy for real estate professionals and teams to easily incorporate best practices everyday.",
+        "tier": 1,
+        "reseller": "Daud Agha",
+        "date": ""
+    },
+    {
+        "id": 136,
+        "product_name": "Spott Commercial License",
+        "price": "$99",
+        "notes": "Spott is a game-changer for marketers that want to take their sites to the next level by adding kick-ass interactive elements.",
+        "tier": 1,
+        "reseller": "Daud Agha",
+        "date": ""
+    },
+    {
+        "id": 137,
+        "product_name": "Spylead - Email Finder",
+        "price": "$59",
+        "notes": "Find truly verified business and personal emails from LinkedIn, Google maps, SERP, and much more!",
+        "tier": 1,
+        "reseller": "Daud Agha",
+        "date": ""
+    },
+    {
+        "id": 138,
+        "product_name": "Stackby",
+        "price": "$499",
+        "notes": "Give superpowers to your everyday spreadsheets and create powerful databases that your teams will love to use.",
+        "tier": 1,
+        "reseller": "Daud Agha",
+        "date": ""
+    },
+    {
+        "id": 139,
+        "product_name": "StarHost",
+        "price": "$100",
+        "notes": "StartHost Lifetime Deal offers superior, reliable, and affordable web hosting to individuals and small businesses. Web hosting is basically providing storage space and access to websites. StartHost gives you exactly that.",
+        "tier": 1,
+        "reseller": "Daud Agha",
+        "date": ""
+    },
+    {
+        "id": 140,
+        "product_name": "Stuffig - Supertrust your Social Brand",
+        "price": "$87",
+        "notes": "-",
+        "tier": 1,
+        "reseller": "Daud Agha",
+        "date": ""
+    },
+    {
+        "id": 141,
+        "product_name": "Synthesys",
+        "price": "$69",
+        "notes": "Synthesys is the world’s first-ever software that turns any text into a real human voice-over. With this tool, you can rapidly grow & scale your business using next-generation Synthetic Speech Technology.",
+        "tier": 1,
+        "reseller": "Daud Agha",
+        "date": ""
+    },
+    {
+        "id": 142,
+        "product_name": "Talkie",
+        "price": "$59",
+        "notes": "Talkia is a Text-To-Speech Software embedded with advanced technology which is a perfect suit for making Video Sales letters , Educational videos, Marketing Videos, Training Videos, Audio Books, and much more.",
+        "tier": 1,
+        "reseller": "Daud Agha",
+        "date": ""
+    },
+    {
+        "id": 143,
+        "product_name": "Taskomat",
+        "price": "$39",
+        "notes": "Taskomat makes every piece of data related to your work a valuable piece of information to grow professionally. Taskomat allows you to increase awareness of your work simply by your data, makes you more productive and more in control of your time.",
+        "tier": 1,
+        "reseller": "Daud Agha",
+        "date": ""
+    },
+    {
+        "id": 144,
+        "product_name": "TaskyPhi",
+        "price": "$49",
+        "notes": "TaskyPhi is a project management software that centralizes your tasks, projects, and everything else so you can get back to working on your business.",
+        "tier": 1,
+        "reseller": "Daud Agha",
+        "date": ""
+    },
+    {
+        "id": 145,
+        "product_name": "Telios",
+        "price": "$59",
+        "notes": "Telios is a decentralized, encrypted email service that gives you ownership of all your data while keeping sensitive information private.",
+        "tier": 1,
+        "reseller": "Daud Agha",
+        "date": ""
+    },
+    {
+        "id": 146,
+        "product_name": "The Link Chest by SEO Buddy",
+        "price": "$89",
+        "notes": "The Link Chest is a collection of high-quality, easy-to-win backlink opportunities. It’s the smart way to kickstart your SEO mission and improve the rank of your website in Google.",
+        "tier": 1,
+        "reseller": "Daud Agha",
+        "date": ""
+    },
+    {
+        "id": 147,
+        "product_name": "Traek .io",
+        "price": "$50",
+        "notes": "Traek is a website insights, analytics and lead generation tool. It provides Insights about website traffic, visitor's company and the activity they do on your website.",
+        "tier": 1,
+        "reseller": "Daud Agha",
+        "date": ""
+    },
+    {
+        "id": 148,
+        "product_name": "Trafft",
+        "price": "$120",
+        "notes": "Trafft is an application that lets you automate online and on-site bookings, plus scheduling features for reminders, payments, and employee timesheets.",
+        "tier": 1,
+        "reseller": "Daud Agha",
+        "date": ""
+    },
+    {
+        "id": 149,
+        "product_name": "Trunk SIP with a spanish number",
+        "price": "$399",
+        "notes": "-",
+        "tier": 1,
+        "reseller": "Daud Agha",
+        "date": ""
+    },
+    {
+        "id": 150,
+        "product_name": "UpBox .me",
+        "price": "$19",
+        "notes": "UpBox.me lets you create a fully customizable page in an easy-to-use builder where your users can simply drag and drop the files they want to send you.",
+        "tier": 1,
+        "reseller": "Daud Agha",
+        "date": ""
+    },
+    {
+        "id": 151,
+        "product_name": "UUKI",
+        "price": "$450",
+        "notes": "UUKI is a modern community platform where likeminded users can engage in insightful discussions and share content.",
+        "tier": 1,
+        "reseller": "Daud Agha",
+        "date": ""
+    },
+    {
+        "id": 152,
+        "product_name": "Vicodo",
+        "price": "$450",
+        "notes": "Vicodo is the CRM application where remote meets personal, empowering you to capture customers through live chats and video calls.",
+        "tier": 1,
+        "reseller": "Daud Agha",
+        "date": ""
+    },
+    {
+        "id": 153,
+        "product_name": "ViSPR SEO Network",
+        "price": "$79",
+        "notes": "ViSPR is a do-follow backlinks exchange network of connected partner websites that exchange links, spanning a huge SEO net for the Google spider.",
+        "tier": 1,
+        "reseller": "Daud Agha",
+        "date": ""
+    },
+    {
+        "id": 154,
+        "product_name": "VistaSpeech",
+        "price": "$97",
+        "notes": "VistaSpeech gives you instant voiceovers without hiring a voice actor and unique, commercially licensed music without wasting time and dealing with complicated music licenses and tediously testing different tracks to find the right fit.",
+        "tier": 1,
+        "reseller": "Daud Agha",
+        "date": ""
+    },
+    {
+        "id": 155,
+        "product_name": "vorText",
+        "price": "$999",
+        "notes": "-",
+        "tier": 1,
+        "reseller": "Daud Agha",
+        "date": ""
+    },
+    {
+        "id": 156,
+        "product_name": "WhatsApp Widget | Capture more leads",
+        "price": "$75",
+        "notes": "The Best WhatsApp Widget for any Website, Landing page or Social Media. More leads = more sales.",
+        "tier": 1,
+        "reseller": "Daud Agha",
+        "date": ""
+    },
+    {
+        "id": 157,
+        "product_name": "WhiteLabel - Branded Games",
+        "price": "$49",
+        "notes": "WhiteLabel (Branded Games for Businesses) is a service to customize games with brand references (i.e. logo, products) placed inside.",
+        "tier": 1,
+        "reseller": "Daud Agha",
+        "date": ""
+    },
+    {
+        "id": 158,
+        "product_name": "WotNot",
+        "price": "$69",
+        "notes": "WotNot is a no-code chatbot builder that lets you create your own chatbot to automate lead generation and customer support at scale.",
+        "tier": 1,
+        "reseller": "Daud Agha",
+        "date": ""
+    },
+    {
+        "id": 159,
+        "product_name": "WP 301 Redirects",
+        "price": "$49",
+        "notes": "WP 301 Redirects lets you scan your site for broken or dangerous links and set up automatic redirects, manage affiliate links, and control all your sites from a centralized dashboard.",
+        "tier": 1,
+        "reseller": "Daud Agha",
+        "date": ""
+    },
+    {
+        "id": 160,
+        "product_name": "YayMail by YayCommerce",
+        "price": "$79",
+        "notes": "YayMail by YayCommerce is a code-free email framework for WooCommerce that lets you customize transactional and marketing email templates.",
+        "tier": 1,
+        "reseller": "Daud Agha",
+        "date": ""
+    },
+    {
+        "id": 161,
+        "product_name": "Zlappo - The Ultimate Twitter Growth Tool",
+        "price": "$120",
+        "notes": "Grow a profitable Twitter audience like a top influencer with Zlappo",
+        "tier": 1,
+        "reseller": "Daud Agha",
+        "date": ""
+    },
+    {
+        "id": 162,
+        "product_name": "Sellix",
+        "price": "$200",
+        "notes": "Sellix is an ecommerce platform where you can sell any type of digital product or service with a custom storefront.",
+        "tier": 1,
+        "reseller": "Daud Agha",
+        "date": ""
+    },
+    {
+        "id": 163,
+        "product_name": "Nichess LTD",
+        "price": "$45",
+        "notes": "Get amazing content + profitable ideas for any niche in 60 seconds or less",
+        "tier": 1,
+        "reseller": "Edwin rubio",
+        "date": ""
+    },
+    {
+        "id": 164,
+        "product_name": "Albato Tier 2",
+        "price": "$160",
+        "notes": "Albato is a no-code platform that lets you integrate cloud services and build custom automations to simplify your workflow.",
+        "tier": 2,
+        "reseller": "Edwin rubio",
+        "date": ""
+    },
+    {
+        "id": 165,
+        "product_name": "Switchboard Canvas Tier 1",
+        "price": "$80",
+        "notes": "Switchboard Canvas is an API-driven image and video creation platform for digital marketers and creators who want to save time with automation.",
+        "tier": 1,
+        "reseller": "Edwin rubio",
+        "date": ""
+    },
+    {
+        "id": 166,
+        "product_name": "Botgate AI Tier 1",
+        "price": "$90",
+        "notes": "Botgate AI is a no-code, conversational marketing platform that integrates seamlessly into your workflow to capture leads and boost conversions.",
+        "tier": 1,
+        "reseller": "Edwin rubio",
+        "date": ""
+    },
+    {
+        "id": 167,
+        "product_name": "SurveyRock Premium Plan",
+        "price": "$40",
+        "notes": "Easily Get the Feedback You Need to Improve Your Business at an Amazing Price — Share & Analyze!",
+        "tier": 1,
+        "reseller": "Edwin rubio",
+        "date": ""
+    },
+    {
+        "id": 168,
+        "product_name": "Dubb x5",
+        "price": "$399",
+        "notes": "Dubb is an all-in-one video platform that helps you engage with your audience and boost sales.",
+        "tier": 5,
+        "reseller": "Ben Duagim",
+        "date": ""
+    },
+    {
+        "id": 169,
+        "product_name": "PeakMetrics",
+        "price": "$99",
+        "notes": "Our platform parses through the ever expanding online information environment to understand the what, who, and why online narratives are spreading, so you have the context you need to respond faster.",
+        "tier": 1,
+        "reseller": "Ben Duagim",
+        "date": ""
+    },
+    {
+        "id": 170,
+        "product_name": "Aiva",
+        "price": "$89",
+        "notes": "-",
+        "tier": 1,
+        "reseller": "Ben Duagim",
+        "date": ""
+    },
+    {
+        "id": 171,
+        "product_name": "SimplyDocs",
+        "price": "$149",
+        "notes": "SimplyDocs is a platform which helps you create and manage web forms, generate filled documents, publish the documents for almost everything and raise business proposals.",
+        "tier": 1,
+        "reseller": "Ben Duagim",
+        "date": ""
+    },
+    {
+        "id": 172,
+        "product_name": "Robomotion Tier 4",
+        "price": "$490",
+        "notes": "Robomotion handles dull everyday tasks with robotic process automation technology. Delegate your tasks to our software robots and they can work 24/7.",
+        "tier": 4,
+        "reseller": "Ben Duagim",
+        "date": ""
+    },
+    {
+        "id": 173,
+        "product_name": "Guestboard x6",
+        "price": "$390",
+        "notes": "Guestboard is a modular event platform designed to make organizing and hosting simple.",
+        "tier": 1,
+        "reseller": "Ben Duagim",
+        "date": ""
+    },
+    {
+        "id": 174,
+        "product_name": "FindThatLead",
+        "price": "$89",
+        "notes": "FindThatLead is a sales prospecting tool that lets you easily search, save, and verify potential customers.",
+        "tier": 1,
+        "reseller": "Ben Duagim",
+        "date": ""
+    },
+    {
+        "id": 175,
+        "product_name": "Piotnet Addons",
+        "price": "$49",
+        "notes": "Piotnet Addons For Elementor. PAFE Form Builder has 3 widgets, Field, Submit, Multi Step Form so you can easily customize the layout, can insert any other widget in a form.",
+        "tier": 1,
+        "reseller": "Ben Duagim",
+        "date": ""
+    },
+    {
+        "id": 176,
+        "product_name": "Essential Addons",
+        "price": "$29",
+        "notes": "Essential Addons for Elementor is a library of unique elements that help you customize and maximize your website.",
+        "tier": 1,
+        "reseller": "Ben Duagim",
+        "date": ""
+    },
+    {
+        "id": 177,
+        "product_name": "Unlimited Addons",
+        "price": "$59",
+        "notes": "An all in one plugin that instantly gives you the most advanced tools to make better Elementor websites faster.",
+        "tier": 1,
+        "reseller": "Ben Duagim",
+        "date": ""
+    },
+    {
+        "id": 178,
+        "product_name": "Rasa",
+        "price": "$89",
+        "notes": "rasa.io is an email marketing tool that lets you send automated and customized emails to every person on your list.",
+        "tier": 1,
+        "reseller": "Ben Duagim",
+        "date": ""
+    },
+    {
+        "id": 179,
+        "product_name": "Sensai metrics",
+        "price": "$159",
+        "notes": "Accelerate your ROI data-driven decisions with Sensai Metrics. With Sensai Metrics, get insights that can help you optimize your budget, increase customer retention, improve conversion rate, & accelerate your ROI & ROAS.",
+        "tier": 1,
+        "reseller": "Ben Duagim",
+        "date": ""
+    },
+    {
+        "id": 180,
+        "product_name": "If so",
+        "price": "$69",
+        "notes": "If-So is a WordPress plugin that displays dynamic content to users based on info like Google Ads search terms, site clicks, and location.",
+        "tier": 1,
+        "reseller": "Ben Duagim",
+        "date": ""
+    },
+    {
+        "id": 181,
+        "product_name": "Replybutton x2",
+        "price": "$99",
+        "notes": "Replybutton is a reply-focused email outreach tool that allows you to embed reply buttons, polls, and surveys in your emails.",
+        "tier": 2,
+        "reseller": "Ben Duagim",
+        "date": ""
+    },
+    {
+        "id": 182,
+        "product_name": "Microthemer",
+        "price": "$49",
+        "notes": "Microthemer is a WordPress CSS editor plugin that helps site builders at any level design like a pro with point-and-click editing.",
+        "tier": 1,
+        "reseller": "Ben Duagim",
+        "date": ""
+    },
+    {
+        "id": 183,
+        "product_name": "SE Ranking",
+        "price": "$190",
+        "notes": "SE Ranking is a marketing platform comprised of a set of tools designed to assist marketers and SEO experts in their work.",
+        "tier": 1,
+        "reseller": "Ben Duagim",
+        "date": ""
+    },
+    {
+        "id": 184,
+        "product_name": "Capturly",
+        "price": "$79",
+        "notes": "Optimize Your Website With Real User Interactions Using Heatmaps, Session Replays, and Analytics Reports",
+        "tier": 1,
+        "reseller": "Ben Duagim",
+        "date": ""
+    },
+    {
+        "id": 185,
+        "product_name": "Clinked x2",
+        "price": "$150",
+        "notes": "Clinked is a white-label client platform that lets you onboard clients, share, and collaborate on documents and manage projects securely.",
+        "tier": 2,
+        "reseller": "Ben Duagim",
+        "date": ""
+    },
+    {
+        "id": 186,
+        "product_name": "Platformly",
+        "price": "$249",
+        "notes": "Platformly is an all in one marketing automation and management tool.",
+        "tier": 1,
+        "reseller": "Ben Duagim",
+        "date": ""
+    },
+    {
+        "id": 187,
+        "product_name": "Omniconvert 300k",
+        "price": "$390",
+        "notes": "Run Unlimited A/B Tests, Personalize your Web pages & Funnels with the Best CRO Tool Ever!",
+        "tier": 1,
+        "reseller": "Ben Duagim",
+        "date": ""
+    },
+    {
+        "id": 188,
+        "product_name": "Docsketch",
+        "price": "$149",
+        "notes": "Docsketch is a document signing, approval, and tracking solution that reduces turnaround time and friction on documents.",
+        "tier": 1,
+        "reseller": "Ben Duagim",
+        "date": ""
+    },
+    {
+        "id": 189,
+        "product_name": "Quuu",
+        "price": "$49",
+        "notes": "Quuu is your source for hand-curated, high-quality social media content suggestions based on your audience’s interests.",
+        "tier": 1,
+        "reseller": "Ben Duagim",
+        "date": ""
+    },
+    {
+        "id": 190,
+        "product_name": "AdInject",
+        "price": "$49",
+        "notes": "Adinject is an email outreach platform to get millions of leads and send an automated email campaign which ultimately improves your conversion rate.",
+        "tier": 1,
+        "reseller": "Ben Duagim",
+        "date": ""
+    },
+    {
+        "id": 191,
+        "product_name": "24sessions",
+        "price": "$59",
+        "notes": "With automated scheduling, high-quality video technology, and interactive feedback, 24sessions gives you everything you need to connect with customers online.",
+        "tier": 1,
+        "reseller": "Ben Duagim",
+        "date": ""
+    },
+    {
+        "id": 192,
+        "product_name": "Planable",
+        "price": "$89",
+        "notes": "Plan and approve social media content 6X faster, with the easiest",
+        "tier": 1,
+        "reseller": "Ben Duagim",
+        "date": ""
+    },
+    {
+        "id": 193,
+        "product_name": "Swell Enterprise 6 seats",
+        "price": "$90",
+        "notes": "Plan and approve social media content 6X faster, with the easiest collaboration tool on the planet",
+        "tier": 1,
+        "reseller": "Ben Duagim",
+        "date": ""
+    },
+    {
+        "id": 194,
+        "product_name": "Textmetrics",
+        "price": "$69",
+        "notes": "Textmetrics offers a full augmented writing platform – for organisations looking to create more diverse, inclusive and on-brand texts.",
+        "tier": 1,
+        "reseller": "Ben Duagim",
+        "date": ""
+    },
+    {
+        "id": 195,
+        "product_name": "Yodel",
+        "price": "$89",
+        "notes": "Yodel lets you create custom greetings, take calls on browser or mobile, play music while customers are on hold, and receive voicemails which are transcribed and shown directly in your Slack.",
+        "tier": 1,
+        "reseller": "Ben Duagim",
+        "date": ""
+    },
+    {
+        "id": "",
+        "product_name": "Book Like a Boss - Latte Lifetime Appsumo",
+        "price": "$299",
+        "notes": "Book Like A Boss is an all-in-one solution for scheduling appointments and selling your services online.",
+        "tier": 1,
+        "reseller": "Koen Adams",
+        "date": ""
+    },
+    {
+        "id": "",
+        "product_name": "Elementor 1000 sites subscription at $199/year",
+        "price": "$499",
+        "notes": "Elementor is the Ultimate WordPress website builder, that enables you to create beautiful WordPress websites intuitively, professionally, and without having to write code.",
+        "tier": 1,
+        "reseller": "Koen Adams",
+        "date": ""
+    },
+    {
+        "id": "",
+        "product_name": "WPAstra Growth Bundle LTD",
+        "price": "$450",
+        "notes": "Fastest, Lightweight, and Highly Customizable WordPress Theme",
+        "tier": 1,
+        "reseller": "Koen Adams",
+        "date": ""
+    },
+    {
+        "id": "",
+        "product_name": "WPDeveloper All Access",
+        "price": "$450",
+        "notes": "WPDeveloper builds advanced WordPress Products To Help Your Business Grow.",
+        "tier": 1,
+        "reseller": "Koen Adams",
+        "date": ""
+    },
+    {
+        "id": "",
+        "product_name": "Metabox LTD unlimited",
+        "price": "$450",
+        "notes": "Meta Box is a WordPress plugin that lets you create 40+ types of custom fields and meta boxes in record time.",
+        "tier": 1,
+        "reseller": "Koen Adams",
+        "date": ""
+    },
+    {
+        "id": "",
+        "product_name": "Krisp Appsumo Pro Plan",
+        "price": "$200",
+        "notes": "Krisp is an AI-powered desktop application that removes background noise in real-time calls, helping you improve your communication.",
+        "tier": 1,
+        "reseller": "Koen Adams",
+        "date": ""
+    },
+    {
+        "id": "",
+        "product_name": "WP User Manager Pro unlimited",
+        "price": "$999",
+        "notes": "WP User Manager lets you create highly customizable user profiles together with custom user registration, login, password recovery and account customization forms to your WordPress website.",
+        "tier": 1,
+        "reseller": "Koen Adams",
+        "date": ""
+    },
+    {
+        "id": "",
+        "product_name": "Monthly Yithemes Club Subscription 30 sites",
+        "price": "$25/month",
+        "notes": "The must have tool to build partnerships with bloggers and influencer to drive traffic to your shop. Get new customers through a strong affiliate program and grow revenue of your shop.",
+        "tier": 1,
+        "reseller": "Koen Adams",
+        "date": ""
+    },
+    {
+        "id": "",
+        "product_name": "Flowster - Growth Plan",
+        "price": "$199",
+        "notes": "Flowster is a simple and powerful way to automate tasks between team members and clients and we offer the world's largest library of highly detailed pre-made templates.",
+        "tier": 1,
+        "reseller": "Koen Adams",
+        "date": ""
+    },
+    {
+        "id": "",
+        "product_name": "Stripo personal lifetime",
+        "price": "$49",
+        "notes": "Email Design Platform For Any Challenge. Create professional and responsive email template fast without any HTML skills. Access to 400 email templates, including Premium ones, and 500+ ready-to-use modules. No HTML skills required.",
+        "tier": 1,
+        "reseller": "Koen Adams",
+        "date": ""
+    },
+    {
+        "id": "",
+        "product_name": "Stencil - unlimited lifetime plan",
+        "price": "$99",
+        "notes": "Stencil is a quick and easy image editor that helps you create professional graphics for maximum social engagement.",
+        "tier": 1,
+        "reseller": "Koen Adams",
+        "date": ""
+    },
+    {
+        "id": "",
+        "product_name": "WP Reset - unlimited",
+        "price": "$199",
+        "notes": "WP Reset is a WordPress plugin that collectively installs themes and plugins, resets defaults, and takes snapshots of your website.",
+        "tier": 1,
+        "reseller": "Koen Adams",
+        "date": ""
+    },
+    {
+        "id": "",
+        "product_name": "Analytify appsumo bundle 5 sites",
+        "price": "$99",
+        "notes": "Analytify is a powerful WordPress plugin that gives you an in-depth view of your site visitors.",
+        "tier": 1,
+        "reseller": "Koen Adams",
+        "date": ""
+    },
+    {
+        "id": "",
+        "product_name": "WPVivid Backup & Migration - Ultimate unlimited",
+        "price": "$200",
+        "notes": "Robust and stable WordPress backup and migration solutions, designed for freelancers, agencies, and site owners.",
+        "tier": 1,
+        "reseller": "Koen Adams",
+        "date": ""
+    },
+    {
+        "id": "",
+        "product_name": "Albato Tier 3 - 150,000 operations",
+        "price": "$299",
+        "notes": "Albato is a no-code platform that lets you integrate cloud services and build custom automations to simplify your workflow.",
+        "tier": 3,
+        "reseller": "Sainey NDong",
+        "date": ""
+    },
+    {
+        "id": "",
+        "product_name": "AnnounceFly x1",
+        "price": "$59",
+        "notes": "Announcefly is a platform that helps you manage feature requests, get customer feedback, and keep everyone up-to-date.",
+        "tier": 1,
+        "reseller": "Sainey NDong",
+        "date": ""
+    },
+    {
+        "id": "",
+        "product_name": "Baseline Tier 1 - 5 Brands",
+        "price": "$79",
+        "notes": "Baseline is a brand design and management platform that helps you generate brand guides and design assets that are always on-brand.",
+        "tier": 1,
+        "reseller": "Sainey NDong",
+        "date": ""
+    },
+    {
+        "id": "",
+        "product_name": "Baseline Tier 3 - Unlimited Brands",
+        "price": "$239",
+        "notes": "Baseline is a brand design and management platform that helps you generate brand guides and design assets that are always on-brand.",
+        "tier": 3,
+        "reseller": "Sainey NDong",
+        "date": ""
+    },
+    {
+        "id": "",
+        "product_name": "Beesbusy x1 - 3 users",
+        "price": "$49",
+        "notes": "Beesbusy is a project management tool that lets you use customizable dashboards, Gantt charts, time tracking, and scheduling for easy organization.",
+        "tier": 1,
+        "reseller": "Sainey NDong",
+        "date": ""
+    },
+    {
+        "id": "",
+        "product_name": "BIGVU x 2 - 10 User, Unlimited Shared Workspace",
+        "price": "$138",
+        "notes": "BIGVU is a comprehensive video tool offering a teleprompter, automatic captions, editing, music, collaboration, and more to create professional content.",
+        "tier": 2,
+        "reseller": "Sainey NDong",
+        "date": ""
+    },
+    {
+        "id": "",
+        "product_name": "BiQ x1 - 100 Keywords",
+        "price": "$49",
+        "notes": "BiQ is an AI-powered SEO suite that offers content optimization, keyword intelligence, and rank tracking to increase your traffic.",
+        "tier": 1,
+        "reseller": "Sainey NDong",
+        "date": ""
+    },
+    {
+        "id": "",
+        "product_name": "BiQ x2 - 200 Keywords",
+        "price": "$98",
+        "notes": "BiQ is an AI-powered SEO suite that offers content optimization, keyword intelligence, and rank tracking to increase your traffic.",
+        "tier": 2,
+        "reseller": "Sainey NDong",
+        "date": ""
+    },
+    {
+        "id": "",
+        "product_name": "BiQ x5 - 1000 Keywords",
+        "price": "$245",
+        "notes": "BiQ is an AI-powered SEO suite that offers content optimization, keyword intelligence, and rank tracking to increase your traffic.",
+        "tier": 5,
+        "reseller": "Sainey NDong",
+        "date": ""
+    },
+    {
+        "id": "",
+        "product_name": "Breve Tier 1 - 16 Team Members (",
+        "price": "$59",
+        "notes": "Breve is an internal communication tool for creating and sharing video updates with your team, plus measuring engagement.",
+        "tier": 1,
+        "reseller": "Sainey NDong",
+        "date": ""
+    },
+    {
+        "id": "",
+        "product_name": "Brick x10 - 200 User, Unlimited Workspaces & Domains",
+        "price": "$350",
+        "notes": "Brick is a super lightweight platform for creating small sites. Imagine if Google Docs was built for making sites.",
+        "tier": 10,
+        "reseller": "Sainey NDong",
+        "date": ""
+    },
+    {
+        "id": "",
+        "product_name": "CabinPanda Tier 1 - 3 Users, 1k Responses, 4GB",
+        "price": "$59",
+        "notes": "CabinPanda is an all-in-one platform that lets you collect, analyze, and leverage data with high-quality online forms for your website.",
+        "tier": 1,
+        "reseller": "Sainey NDong",
+        "date": ""
+    },
+    {
+        "id": "",
+        "product_name": "CabinPanda Tier 2 - 7 Users, 10k Responses, 10GB",
+        "price": "$139",
+        "notes": "CabinPanda is an all-in-one platform that lets you collect, analyze, and leverage data with high-quality online forms for your website.",
+        "tier": 2,
+        "reseller": "Sainey NDong",
+        "date": ""
+    },
+    {
+        "id": "",
+        "product_name": "Calido Tier 1 - 5 Workspaces, 5 Team Members",
+        "price": "$69",
+        "notes": "Calido is a product management platform that simplifies product development with intelligent roadmaps, custom shared views, and an open data model.",
+        "tier": 1,
+        "reseller": "Sainey NDong",
+        "date": ""
+    },
+    {
+        "id": "",
+        "product_name": "Connected x2 - 10TB, 20 Users",
+        "price": "$138",
+        "notes": "Not found",
+        "tier": 2,
+        "reseller": "Sainey NDong",
+        "date": ""
+    },
+    {
+        "id": "",
+        "product_name": "DeepWord Tier 1 - 20 Video Minutes",
+        "price": "$69",
+        "notes": "DeepWord lets you generate realistic deepfake videos, complete with CRM integration for personalized sales and marketing outreach at scale.",
+        "tier": 1,
+        "reseller": "Sainey NDong",
+        "date": ""
+    },
+    {
+        "id": "",
+        "product_name": "DeepWord Tier 2 - 60 Video Minutes",
+        "price": "$139",
+        "notes": "DeepWord lets you generate realistic deepfake videos, complete with CRM integration for personalized sales and marketing outreach at scale.",
+        "tier": 2,
+        "reseller": "Sainey NDong",
+        "date": ""
+    },
+    {
+        "id": "",
+        "product_name": "DinoRANK Tier 3 - 100 Domain Tracking, 700 keyword Research",
+        "price": "$239",
+        "notes": "DinoRANK helps you optimize your SEO strategy with keyword tracking, internal linking, competitor analysis, and more.",
+        "tier": 3,
+        "reseller": "Sainey NDong",
+        "date": ""
+    },
+    {
+        "id": "",
+        "product_name": "Disctopia Tier 2 - 50GB, 7 Sub-accounts, Remove Branding",
+        "price": "$189",
+        "notes": "Disctopia is a streaming service for indie artists, podcasters, and content creators who want creative freedom and merchandising integration.",
+        "tier": 1,
+        "reseller": "Sainey NDong",
+        "date": ""
+    },
+    {
+        "id": "",
+        "product_name": "EventTitans x1 - 1 active event, 1200 attendee credits",
+        "price": "$99",
+        "notes": "EventTitans lets you create and manage events from start to finish, with features like ticketing, video streaming, and in-person check-ins.",
+        "tier": 1,
+        "reseller": "Sainey NDong",
+        "date": ""
+    },
+    {
+        "id": "",
+        "product_name": "EyesOn - 3 Hosts & 100 Participants",
+        "price": "$69",
+        "notes": "eyeson is a powerful, fully integrated cloud-based video conferencing solution for 1:1 meetings.",
+        "tier": 1,
+        "reseller": "Sainey NDong",
+        "date": ""
+    },
+    {
+        "id": "",
+        "product_name": "FastPages Tier 4 - Unlimited Users & Domains",
+        "price": "$369",
+        "notes": "FastPages helps you launch sales funnels complete with quick-loading landing pages, popups, quizzes, and first-party cookies.",
+        "tier": 1,
+        "reseller": "Sainey NDong",
+        "date": ""
+    },
+    {
+        "id": "",
+        "product_name": "Flotiq Tier 1 - 3 Users",
+        "price": "$69",
+        "notes": "Flotiq is a headless CMS that lets your teams create and share content across multiple channels with auto-generated, compliant APIs.",
+        "tier": 1,
+        "reseller": "Sainey NDong",
+        "date": ""
+    },
+    {
+        "id": "",
+        "product_name": "Follow it x1 - Whitelabel, 3000 Flowers",
+        "price": "$79",
+        "notes": "Follow.it lets you create subscription forms with options for various delivery channels and content filters to increase repeat traffic.",
+        "tier": 1,
+        "reseller": "Sainey NDong",
+        "date": ""
+    },
+    {
+        "id": "",
+        "product_name": "Follow it x2 - Whitelabel, 6000 Flowers",
+        "price": "$158",
+        "notes": "Follow.it lets you create subscription forms with options for various delivery channels and content filters to increase repeat traffic.",
+        "tier": 2,
+        "reseller": "Sainey NDong",
+        "date": ""
+    },
+    {
+        "id": "",
+        "product_name": "go4clic Tier 4 - 20 Domains, 200GB",
+        "price": "$299",
+        "notes": "Go4clic is a social learning platform designed to improve learning experiences and boost interaction by launching collaborative challenges.",
+        "tier": 1,
+        "reseller": "Sainey NDong",
+        "date": ""
+    },
+    {
+        "id": "",
+        "product_name": "Gurucan x1 - 125GB, Unlimited Students",
+        "price": "$79",
+        "notes": "Gurucan is a mobile-first, all-in-one platform for creating online courses and memberships, with tools to send email broadcasts and push notifications.",
+        "tier": 1,
+        "reseller": "Sainey NDong",
+        "date": ""
+    },
+    {
+        "id": "",
+        "product_name": "Hippo Video Tier 3 - 5 Users, 250GB, 1TB Bandwidth, Custom Domain",
+        "price": "$199",
+        "notes": "Hippo Video is an interactive video platform that lets users create, share, and track videos to achieve their marketing goals.",
+        "tier": 1,
+        "reseller": "Sainey NDong",
+        "date": ""
+    },
+    {
+        "id": "",
+        "product_name": "KeywordSearch Tier 3 - Ad Spy, 2k Monthly Searches, 20 Collections",
+        "price": "$209",
+        "notes": "Keyword Search is a suite of AI tools that helps you research high-ranking keywords, videos, channels, and ads on YouTube.",
+        "tier": 1,
+        "reseller": "Sainey NDong",
+        "date": ""
+    },
+    {
+        "id": "",
+        "product_name": "Leadmonk Tier 2 - 25 Users, Unlimited Appointment",
+        "price": "$139",
+        "notes": "Leadmonk is a mobile-first scheduling platform that offers flexible booking options, automated reminders, and promotional landing pages.",
+        "tier": 1,
+        "reseller": "Sainey NDong",
+        "date": ""
+    },
+    {
+        "id": "",
+        "product_name": "LeadScripts x2 - 20 Team Members, Unlimited AI Words",
+        "price": "$198",
+        "notes": "LeadScripts is a fill-in-the-blank copywriting engine that helps you finish your funnels in minutes with less brain-freezes and ruts.",
+        "tier": 1,
+        "reseller": "Sainey NDong",
+        "date": ""
+    },
+    {
+        "id": "",
+        "product_name": "Mailercloud Tier 2 - 15,000 Contacts",
+        "price": "$109",
+        "notes": "Mailercloud is a powerful email marketing platform that lets you create professionally designed email campaigns that grow your subscriber list.",
+        "tier": 1,
+        "reseller": "Sainey NDong",
+        "date": ""
+    },
+    {
+        "id": "",
+        "product_name": "Markopolo Tier 3 - 50 Users, Unlimited Brands",
+        "price": "$209",
+        "notes": "Markopolo uses AI to generate social copy, identify target audiences, and schedule cross-platform social media and search ad campaigns.",
+        "tier": 1,
+        "reseller": "Sainey NDong",
+        "date": ""
+    },
+    {
+        "id": "",
+        "product_name": "Median x1 - 5 Agents",
+        "price": "$59",
+        "notes": "Median makes it easy to resolve customer issues by integrating one-click screen share features in your app, website, or portal.",
+        "tier": 1,
+        "reseller": "Sainey NDong",
+        "date": ""
+    },
+    {
+        "id": "",
+        "product_name": "Median x2 - 25 Agents",
+        "price": "$118",
+        "notes": "Median makes it easy to resolve customer issues by integrating one-click screen share features in your app, website, or portal.",
+        "tier": 1,
+        "reseller": "Sainey NDong",
+        "date": ""
+    },
+    {
+        "id": "",
+        "product_name": "Melodie Music - Single Plan",
+        "price": "$49",
+        "notes": "Searching is a breeze with Melodie's intuitive AI-powered interface. It features 'reverse-audio' search tools (like Google's reverse image search), search exclusions, find similar functionality, hotkeys and a variety of menus including Genre, Mood, Instrument, Purpose, BPM, and Key.",
+        "tier": 1,
+        "reseller": "Sainey NDong",
+        "date": ""
+    },
+    {
+        "id": "",
+        "product_name": "Melon - Unlimited Streaming, 10 hours recording",
+        "price": "$99",
+        "notes": "Melon is a web-based livestreaming tool that helps you launch high-quality streams across multiple platforms.",
+        "tier": 1,
+        "reseller": "Sainey NDong",
+        "date": ""
+    },
+    {
+        "id": "",
+        "product_name": "Mieux Tier 1 - 50k Monthly Words",
+        "price": "$79",
+        "notes": "Mieux.ai is a content generation and optimization tool that allows you to create SEO-friendly, plagiarism-free content in minutes.",
+        "tier": 1,
+        "reseller": "Sainey NDong",
+        "date": ""
+    },
+    {
+        "id": "",
+        "product_name": "Mobiz Tier 1 - 5k Contacts, 500 Free SMS",
+        "price": "$79",
+        "notes": "Mobiz lets you leverage your customer data insights to send individualized SMS landing pages that build loyalty and boost your bottom line.",
+        "tier": 1,
+        "reseller": "Sainey NDong",
+        "date": ""
+    },
+    {
+        "id": "",
+        "product_name": "Noota Tier 3 - 1 User, Unlimited hours",
+        "price": "$299",
+        "notes": "Transcribe & Analyze your Online Meetings",
+        "tier": 3,
+        "reseller": "Sainey NDong",
+        "date": ""
+    },
+    {
+        "id": "",
+        "product_name": "Parallel Tier 1 - 5 Users, 40 Petitions",
+        "price": "$79",
+        "notes": "Parallel helps you automate back-office onboarding with frictionless document management, secure client portals, and standardized workflows.",
+        "tier": 1,
+        "reseller": "Sainey NDong",
+        "date": ""
+    },
+    {
+        "id": "",
+        "product_name": "Persona by Delve AI Tier 2 - 5 Websites, 3 Team Members, 75k Cumulative Visitors",
+        "price": "$159",
+        "notes": "Persona by Delve AI automates market research so you can easily create data-driven buyer personas for your business and competitors",
+        "tier": 1,
+        "reseller": "Sainey NDong",
+        "date": ""
+    },
+    {
+        "id": "",
+        "product_name": "Peppertype Tier 3 - 20 Users, 250,000 words per month",
+        "price": "$399",
+        "notes": "Peppertype.ai is an AI-powered content generation tool that creates engaging content for a variety of channels in just seconds.",
+        "tier": 1,
+        "reseller": "Sainey NDong",
+        "date": ""
+    },
+    {
+        "id": "",
+        "product_name": "Picmaker Tier 1 - 1 User",
+        "price": "$69",
+        "notes": "Picmaker is an AI-enhanced DIY design platform that lets you create stunning professional graphics in minutes.",
+        "tier": 1,
+        "reseller": "Sainey NDong",
+        "date": ""
+    },
+    {
+        "id": "",
+        "product_name": "Pixelied x1 - 1 User",
+        "price": "$59",
+        "notes": "Pixelied is a feature-rich design tool offering an extensive library of templates, photos, icons, illustrations, color palettes, and vectors.",
+        "tier": 1,
+        "reseller": "Sainey NDong",
+        "date": ""
+    },
+    {
+        "id": "",
+        "product_name": "Pixteller x1 - 1 User",
+        "price": "$49",
+        "notes": "PixTeller offers easy-to-use tools and an extensive library of templates, photos, and fonts, so you can create professional, custom graphics and animated videos.",
+        "tier": 1,
+        "reseller": "Sainey NDong",
+        "date": ""
+    },
+    {
+        "id": "",
+        "product_name": "Premast Templates & Plus",
+        "price": "$49",
+        "notes": "Premast presents the best PowerPoint presentation templates, grouped all together in one epic bundle!",
+        "tier": 1,
+        "reseller": "Sainey NDong",
+        "date": ""
+    },
+    {
+        "id": "",
+        "product_name": "Putler Tier 1 - 5 data source",
+        "price": "$69",
+        "notes": "Import customer CSV & Excel files to your web app, API, or SaaS",
+        "tier": 1,
+        "reseller": "Sainey NDong",
+        "date": ""
+    },
+    {
+        "id": "",
+        "product_name": "Putler Tier 2 - 10 data source",
+        "price": "$149",
+        "notes": "Import customer CSV & Excel files to your web app, API, or SaaS",
+        "tier": 2,
+        "reseller": "Sainey NDong",
+        "date": ""
+    },
+    {
+        "id": "",
+        "product_name": "rasa io x1 - 5k Contacts",
+        "price": "$59",
+        "notes": "rasa.io is an email marketing tool that lets you send automated and customized emails to every person on your list.",
+        "tier": 1,
+        "reseller": "Sainey NDong",
+        "date": ""
+    },
+    {
+        "id": "",
+        "product_name": "RabbitLoader Tier 1 - 100GB, 5 Websites",
+        "price": "$59",
+        "notes": "RabbitLoader is a WordPress plugin that reduces website load times using content minification, lazy loading, and CDN caching.",
+        "tier": 1,
+        "reseller": "Sainey NDong",
+        "date": ""
+    },
+    {
+        "id": "",
+        "product_name": "RabbitLoader Tier 2 - 250GB, Unlimited Websites",
+        "price": "$109",
+        "notes": "RabbitLoader is a WordPress plugin that reduces website load times using content minification, lazy loading, and CDN caching.",
+        "tier": 2,
+        "reseller": "Sainey NDong",
+        "date": ""
+    },
+    {
+        "id": "",
+        "product_name": "RabbitLoader Tier 4 - 1TB, Unlimited Websites",
+        "price": "$339",
+        "notes": "RabbitLoader is a WordPress plugin that reduces website load times using content minification, lazy loading, and CDN caching.",
+        "tier": 4,
+        "reseller": "Sainey NDong",
+        "date": ""
+    },
+    {
+        "id": "",
+        "product_name": "Seers Tier 1 - 1 Website, 50,000 Consent Logs",
+        "price": "$69",
+        "notes": "Seers is a data privacy and consent management platform that makes it easy to comply with data protection regulations with an extensive range of compliance tools.",
+        "tier": 1,
+        "reseller": "Sainey NDong",
+        "date": ""
+    },
+    {
+        "id": "",
+        "product_name": "Seers Tier 3 - 15 Websites, 150,000 Consent Logs",
+        "price": "$279",
+        "notes": "Seers is a data privacy and consent management platform that makes it easy to comply with data protection regulations with an extensive range of compliance tools.",
+        "tier": 3,
+        "reseller": "Sainey NDong",
+        "date": ""
+    },
+    {
+        "id": "",
+        "product_name": "Sellix Tier 1 - 5 Shops, 5 Custom Domain, $250k Annual revenue",
+        "price": "$89",
+        "notes": "Sellix is an ecommerce platform where you can sell any type of digital product or service with a custom storefront.",
+        "tier": 1,
+        "reseller": "Sainey NDong",
+        "date": ""
+    },
+    {
+        "id": "",
+        "product_name": "Seodity Tier 1 - 300 keywords",
+        "price": "$79",
+        "notes": "Seodity is an SEO platform packed with powerful tools for keyword research, site audits, rank tracking, backlinking, and more.",
+        "tier": 1,
+        "reseller": "Sainey NDong",
+        "date": ""
+    },
+    {
+        "id": "",
+        "product_name": "SerpWatch x1 - 4500 KW Checks, 2 Clients",
+        "price": "$69",
+        "notes": "SerpWatch.io tracks SEO rankings with keyword monitoring and data cross-referencing that includes revenue, SERP features, and search traffic.",
+        "tier": 1,
+        "reseller": "Sainey NDong",
+        "date": ""
+    },
+    {
+        "id": "",
+        "product_name": "SerpWatch x2 - 9k KW Checks, 5 Clients",
+        "price": "$138",
+        "notes": "SerpWatch.io tracks SEO rankings with keyword monitoring and data cross-referencing that includes revenue, SERP features, and search traffic.",
+        "tier": 2,
+        "reseller": "Sainey NDong",
+        "date": ""
+    },
+    {
+        "id": "",
+        "product_name": "SERPWizz Tier 3 - 500 Rank Checker Keywords, Whitelabel",
+        "price": "$229",
+        "notes": "SERPWizz is an SEO audit toolkit that tracks performance with white-label reporting features for detailed, shareable audits.",
+        "tier": 3,
+        "reseller": "Sainey NDong",
+        "date": ""
+    },
+    {
+        "id": "",
+        "product_name": "SheerSEO x3 - 3 Domains, 300 keywords",
+        "price": "$225",
+        "notes": "SheerSEO is an SEO platform that helps you analyze and optimize your keyword and backlink strategies, as well as monitor your site health.",
+        "tier": 3,
+        "reseller": "Sainey NDong",
+        "date": ""
+    },
+    {
+        "id": "",
+        "product_name": "Shopper Tier 1 - 1 Store, 3 Users",
+        "price": "$79",
+        "notes": "Shopper is an online store where creators, publishers, and marketers can manage and monetize affiliate product promotions at scale.",
+        "tier": 1,
+        "reseller": "Sainey NDong",
+        "date": ""
+    },
+    {
+        "id": "",
+        "product_name": "Shopper Tier 3 - 5 Store, 15 Users",
+        "price": "$279",
+        "notes": "Shopper is an online store where creators, publishers, and marketers can manage and monetize affiliate product promotions at scale.",
+        "tier": 3,
+        "reseller": "Sainey NDong",
+        "date": ""
+    },
+    {
+        "id": "",
+        "product_name": "ShoutOut Tier 3 - 20 Users, 50 Projects, 7 Hours Automated Videos, 50 Child Accounts",
+        "price": "$209",
+        "notes": "ShoutOut collects recorded customer feedback and automatically generates branded video content with B-roll, graphics, and subtitles.",
+        "tier": 3,
+        "reseller": "Sainey NDong",
+        "date": ""
+    },
+    {
+        "id": "",
+        "product_name": "Soon Tier 3 - 30 users",
+        "price": "$179",
+        "notes": "Soon is a collaborative employee scheduling software that helps you track shifts, manage leave requests, and streamline communication.",
+        "tier": 3,
+        "reseller": "Sainey NDong",
+        "date": ""
+    },
+    {
+        "id": "",
+        "product_name": "SuiteDash x 1 - 3 Users, 100GB",
+        "price": "$129",
+        "notes": "SuiteDash is an all-in-one software solution that combines business essentials into a pre-integrated, white-label-ready platform.",
+        "tier": 1,
+        "reseller": "Sainey NDong",
+        "date": ""
+    },
+    {
+        "id": "",
+        "product_name": "Upfeed Tier 2 - Unlimited Boards",
+        "price": "$99",
+        "notes": "Upfeed is a user feedback tool that helps companies understand their customers’ needs in order to prioritize product development.",
+        "tier": 2,
+        "reseller": "Sainey NDong",
+        "date": ""
+    },
+    {
+        "id": "",
+        "product_name": "Quuu Pro x2 - 100 Profiles, 10 Users",
+        "price": "$98",
+        "notes": "Quuu is an online platform that gives you the tools to discover, read, watch, listen, engage, save, and share amazing content.",
+        "tier": 2,
+        "reseller": "Sainey NDong",
+        "date": ""
+    },
+    {
+        "id": "",
+        "product_name": "VidPowr x2 - Unlimited Videos, 5 Domains, 10 reseller Accounts",
+        "price": "$138",
+        "notes": "VidPowr supercharges your marketing with interactive video content designed to engage viewers, collect leads, and close sales.",
+        "tier": 2,
+        "reseller": "Sainey NDong",
+        "date": ""
+    },
+    {
+        "id": "",
+        "product_name": "VidPowr x5 - Unlimited Videos, 50 Domains, 100 reseller Accounts",
+        "price": "$345",
+        "notes": "VidPowr supercharges your marketing with interactive video content designed to engage viewers, collect leads, and close sales.",
+        "tier": 5,
+        "reseller": "Sainey NDong",
+        "date": ""
+    },
+    {
+        "id": "",
+        "product_name": "Vumu Tier 1 - 1 User, 25GB, 150 Videos",
+        "price": "$69",
+        "notes": "Vumu lets you record, edit, and share personalized video messages to scale your outreach and convert more leads.",
+        "tier": 1,
+        "reseller": "Sainey NDong",
+        "date": ""
+    },
+    {
+        "id": "",
+        "product_name": "Weblister x1 - 1 Million Page views per Month",
+        "price": "$49",
+        "notes": "Weblister monitors your website for uptime and downtime as well as data traffic.",
+        "tier": 1,
+        "reseller": "Sainey NDong",
+        "date": ""
+    },
+    {
+        "id": "",
+        "product_name": "Wisecut x1 - 4 Hours Transcription",
+        "price": "$69",
+        "notes": "Wisecut is a video editing software that uses AI and voice recognition to edit videos for you, automatically creating jump cuts, subtitles, and more.",
+        "tier": 1,
+        "reseller": "Sainey NDong",
+        "date": ""
+    },
+    {
+        "id": "",
+        "product_name": "Webvizio Tier 1 - 5 Users, Unlimited Projects",
+        "price": "$69",
+        "notes": "Webvizio helps you collaborate on website revisions with features that let you share actionable feedback directly on multiple webpages.",
+        "tier": 1,
+        "reseller": "Sainey NDong",
+        "date": ""
+    },
+    {
+        "id": "",
+        "product_name": "Webvizio Tier 3 - Unlimited Users, Unlimited Projects",
+        "price": "$207",
+        "notes": "Webvizio helps you collaborate on website revisions with features that let you share actionable feedback directly on multiple webpages.",
+        "tier": 3,
+        "reseller": "Sainey NDong",
+        "date": ""
+    },
+    {
+        "id": "",
+        "product_name": "Zagomail Tier 1 - 8000 Contacts",
+        "price": "-$79",
+        "notes": "Zagomail is an email marketing platform that lets you build forms, landing pages, and automated workflows for targeted email campaigns.",
+        "tier": 1,
+        "reseller": "Sainey NDong",
+        "date": ""
+    },
+    {
+        "id": "",
+        "product_name": "Acumbamail Tier 4 - 310k Emails, 300 Campaigns",
+        "price": "$339",
+        "notes": "Marketing should not be complicated to get great performance. With a single tool you can manage your email campaigns, SMS, landing pages and much more.",
+        "tier": 4,
+        "reseller": "Sainey NDong",
+        "date": ""
+    },
+    {
+        "id": "",
+        "product_name": "AISEO ai - x1 - 250 Credit or 25,000 Words",
+        "price": "$49",
+        "notes": "AISEO.ai's writing assistant let you generate an SEO optimized blog post with a couple of clicks. The long form assistant generates a paragraph with just one click, which makes your workflow amazingly fast.",
+        "tier": 1,
+        "reseller": "Sainey NDong",
+        "date": ""
+    },
+    {
+        "id": "",
+        "product_name": "AppMySite Tier 5 - Unlimited WP Apps",
+        "price": "$449",
+        "notes": "Create awesome mobile apps in minutes with an AI-powered WordPress app builder.",
+        "tier": 5,
+        "reseller": "Sainey NDong",
+        "date": ""
+    },
+    {
+        "id": "",
+        "product_name": "BackupSheep x1 - 1TB",
+        "price": "$69",
+        "notes": "BackupSheep is a no-code backup automation tool that lets you delegate backups for cloud servers, databases, and file servers.",
+        "tier": 1,
+        "reseller": "Sainey NDong",
+        "date": ""
+    },
+    {
+        "id": "",
+        "product_name": "BackupSheep x2 - 2 TB",
+        "price": "$138",
+        "notes": "BackupSheep is a no-code backup automation tool that lets you delegate backups for cloud servers, databases, and file servers.",
+        "tier": 2,
+        "reseller": "Sainey NDong",
+        "date": ""
+    },
+    {
+        "id": "",
+        "product_name": "Billforward x 1 - 1 user, Unlimited Customers",
+        "price": "$69",
+        "notes": "Billforward is an award-winning tool that helps businesses with billing and subscription processes, from customer sign-ups and recurring payments to dunning.",
+        "tier": 1,
+        "reseller": "Sainey NDong",
+        "date": ""
+    },
+    {
+        "id": "",
+        "product_name": "Blogely x3 - 3 Team Seats, 10 portfolios, 20 Websites, 250 credits",
+        "price": "$237",
+        "notes": "Blogely is a content creation and management app that lets you research, create, and publish content in any language.",
+        "tier": 3,
+        "reseller": "Sainey NDong",
+        "date": ""
+    },
+    {
+        "id": "",
+        "product_name": "Brick x1 - 2 Users, 2 Workspace, 5 Domains",
+        "price": "$29",
+        "notes": "Brick is a super lightweight platform for creating small sites. Imagine if Google Docs was built for making sites.",
+        "tier": 1,
+        "reseller": "Sainey NDong",
+        "date": ""
+    },
+    {
+        "id": "",
+        "product_name": "Crikle x2 - 5 users",
+        "price": "$119",
+        "notes": "Crikle is the next-gen video conferencing platform; hyper-personalized and focused on delivering high-quality visual communication.",
+        "tier": 2,
+        "reseller": "Sainey NDong",
+        "date": ""
+    },
+    {
+        "id": "",
+        "product_name": "DeepWord Tier 3 - 120 Video Minutes per Month",
+        "price": "$209",
+        "notes": "DeepWord lets you generate realistic deepfake videos, complete with CRM integration for personalized sales and marketing outreach at scale.",
+        "tier": 3,
+        "reseller": "Sainey NDong",
+        "date": ""
+    },
+    {
+        "id": "",
+        "product_name": "Depositphotos x1 - 100 Downloads",
+        "price": "$39",
+        "notes": "Depositphotos is a library with over 195 million high-quality and royalty-free stock photos and vector images.",
+        "tier": 1,
+        "reseller": "Sainey NDong",
+        "date": ""
+    },
+    {
+        "id": "",
+        "product_name": "Depositphotos x2 - 200 Downloads",
+        "price": "$79",
+        "notes": "Depositphotos is a library with over 195 million high-quality and royalty-free stock photos and vector images.",
+        "tier": 2,
+        "reseller": "Sainey NDong",
+        "date": ""
+    },
+    {
+        "id": "",
+        "product_name": "Desku Helpdesk x8 - 10 Workspaces, Unlimited Agents per Workspace",
+        "price": "$552",
+        "notes": "With Desku, you and your team can practice the kind of exceptional customer care that is mandatory to move forward in business and to ensure growth in your industry… while still preserving your own bandwidth, stamina, and mental health.",
+        "tier": 5,
+        "reseller": "Sainey NDong",
+        "date": ""
+    },
+    {
+        "id": "",
+        "product_name": "Digital First AI Tier 1 - 5 Managed Funnels",
+        "price": "$59",
+        "notes": "Digital First AI is a technology that develops effective marketing approaches based on your objectives and allows you to incorporate them into unique funnels to increase growth.",
+        "tier": 1,
+        "reseller": "Sainey NDong",
+        "date": ""
+    },
+    {
+        "id": "",
+        "product_name": "DocPro x1 - 100 DocPro Prokens",
+        "price": "$49",
+        "notes": "Get all the legal contracts and business documents you need at your fingertips",
+        "tier": 1,
+        "reseller": "Sainey NDong",
+        "date": ""
+    },
+    {
+        "id": "",
+        "product_name": "Dukaan Tier 3 - Unlimited Stores, 10 Users per Store",
+        "price": "$289",
+        "notes": "Dukaan is an ecommerce platform that lets you build, manage, and scale your store in seconds—no coding or design skills required.",
+        "tier": 3,
+        "reseller": "Sainey NDong",
+        "date": ""
+    },
+    {
+        "id": "",
+        "product_name": "EmailWritr x1 - 3 Users, Premium Plan",
+        "price": "$59",
+        "notes": "Create High Converting Email Sequences With Few Clicks Of The Mouse. Email marketing is the best way to generate sales.",
+        "tier": 1,
+        "reseller": "Sainey NDong",
+        "date": ""
+    },
+    {
+        "id": "",
+        "product_name": "EmailWritr x3 - 50 User, Agency with 30 Premium Subaccount",
+        "price": "$177",
+        "notes": "Create High Converting Email Sequences With Few Clicks Of The Mouse. Email marketing is the best way to generate sales.",
+        "tier": 3,
+        "reseller": "Sainey NDong",
+        "date": ""
+    },
+    {
+        "id": "",
+        "product_name": "Eventin Tier 1 - 5 Websites",
+        "price": "$59",
+        "notes": "Eventin is a user-friendly WordPress plugin that helps you manage unlimited events and sell tickets at no extra cost.",
+        "tier": 1,
+        "reseller": "Sainey NDong",
+        "date": ""
+    },
+    {
+        "id": "",
+        "product_name": "Flaked AI x1 - 100,000 Characters",
+        "price": "$59",
+        "notes": "Flacked AI is an all-in-one platform featuring AI-powered Summarizer and Writer for all your needs.",
+        "tier": 1,
+        "reseller": "Sainey NDong",
+        "date": ""
+    },
+    {
+        "id": "",
+        "product_name": "go4clic x1 - 200 Participants, 1 Domain, 30GB",
+        "price": "$59",
+        "notes": "Go4clic is a social learning platform designed to improve learning experiences and boost interaction by launching collaborative challenges.",
+        "tier": 1,
+        "reseller": "Sainey NDong",
+        "date": ""
+    },
+    {
+        "id": "",
+        "product_name": "Knowtworthy Tier 1 - 3 Teams with 10 Members per Team, 60 transcription hours, CNAME",
+        "price": "$59",
+        "notes": "Knowtworthy is a meeting management platform that maximizes meeting productivity with collaborative minutes and real-time transcriptions.",
+        "tier": 1,
+        "reseller": "Sainey NDong",
+        "date": ""
+    },
+    {
+        "id": "",
+        "product_name": "KPIBee x1 - 300 query credits",
+        "price": "$59",
+        "notes": "Automate KPI import directly into spreadsheets! Spend more time Analyzing Data that matters to you!",
+        "tier": 1,
+        "reseller": "Sainey NDong",
+        "date": ""
+    },
+    {
+        "id": "",
+        "product_name": "Leadcamp x1 - 75 Enrichments",
+        "price": "$69",
+        "notes": "Leadcamp tells sellers which pipeline deals to focus on by analyzing lead engagement and scores and making recommendations.",
+        "tier": 1,
+        "reseller": "Sainey NDong",
+        "date": ""
+    },
+    {
+        "id": "",
+        "product_name": "Ligna x1 - 5 Users, 15k Emails, 3k Text",
+        "price": "$69",
+        "notes": "Ligna is a complete sales and marketing platform with every feature you need to close clients, manage content, oversee projects, and track every detail.",
+        "tier": 1,
+        "reseller": "Sainey NDong",
+        "date": ""
+    },
+    {
+        "id": "",
+        "product_name": "Mailivery Tier 1 - 5 Mailbox",
+        "price": "$59",
+        "notes": "Mailivery uses AI to create, send, and positively interact with your email account, so you can improve your sender reputation and drive more sales.",
+        "tier": 1,
+        "reseller": "Sainey NDong",
+        "date": ""
+    },
+    {
+        "id": "",
+        "product_name": "Murlist - 5 Mailboxes, 2k Lead Engine, 5k verify",
+        "price": "$59",
+        "notes": "Murlist lets you send hyper-personalized video cold emails and automate drip campaigns to drive leads down the sales funnel.",
+        "tier": 1,
+        "reseller": "Sainey NDong",
+        "date": ""
+    },
+    {
+        "id": "",
+        "product_name": "NOYSI x2 - CNAME, Unlimited users",
+        "price": "$218",
+        "notes": "Noysi is a collaboration platform that greatly increases productivity by integrating all the necessary services for the internal and external communication of your company or community on a single platform.",
+        "tier": 2,
+        "reseller": "Sainey NDong",
+        "date": ""
+    },
+    {
+        "id": "",
+        "product_name": "Ocoya x1 - 10 Social Profiles",
+        "price": "$59",
+        "notes": "Ocoya is an all-in-one content marketing platform that helps you find the perfect graphic for your campaigns, generate AI-powered copy in seconds with Travis™ AI, schedule posts ahead of time to save time and get real-time analytics on how well they perform.",
+        "tier": 1,
+        "reseller": "Sainey NDong",
+        "date": ""
+    },
+    {
+        "id": "",
+        "product_name": "Paced Email - Custom Domain, Unlimited Aliases",
+        "price": "$59",
+        "notes": "Paced Email lets you create email aliases and email digests to minimize distractions, declutter your inbox, and protect your online privacy.",
+        "tier": 1,
+        "reseller": "Sainey NDong",
+        "date": ""
+    },
+    {
+        "id": "",
+        "product_name": "Pagemaker Tier 1 - 5 Domains, 15 active campaigns",
+        "price": "$69",
+        "notes": "Pagemaker is a mobile-first landing page builder that lets you create and manage high-converting campaigns quickly, without any code.",
+        "tier": 1,
+        "reseller": "Sainey NDong",
+        "date": ""
+    },
+    {
+        "id": "",
+        "product_name": "Pagemaker Tier 2 - 25 Domains, Unlimited Campaigns",
+        "price": "$149",
+        "notes": "Pagemaker is a mobile-first landing page builder that lets you create and manage high-converting campaigns quickly, without any code.",
+        "tier": 2,
+        "reseller": "Sainey NDong",
+        "date": ""
+    },
+    {
+        "id": "",
+        "product_name": "Pagemaker x 3 - Unlimited + 125 Custom Domain",
+        "price": "$249",
+        "notes": "Pagemaker is a mobile-first landing page builder that lets you create and manage high-converting campaigns quickly, without any code.",
+        "tier": 3,
+        "reseller": "Sainey NDong",
+        "date": ""
+    },
+    {
+        "id": "",
+        "product_name": "Samdock CRM x1 - 3 Users",
+        "price": "$79",
+        "notes": "The simplest CRM for small and mid-sized growing businesses",
+        "tier": 1,
+        "reseller": "Sainey NDong",
+        "date": ""
+    },
+    {
+        "id": "",
+        "product_name": "Scribe Signature x7 - Unlimited Users & Signatures",
+        "price": "$483",
+        "notes": "Scribe is a tool that lets you add CTAs and promotional banners in every email signature for more effective branding and campaigns.",
+        "tier": 1,
+        "reseller": "Sainey NDong",
+        "date": ""
+    },
+    {
+        "id": "",
+        "product_name": "Sealit Tier 1 - 10 Users, Unmilited Access",
+        "price": "$69",
+        "notes": "Sealit is a Zero Trust data protection platform that secures confidential emails and files in a single click, without passwords.",
+        "tier": 1,
+        "reseller": "Sainey NDong",
+        "date": ""
+    },
+    {
+        "id": "",
+        "product_name": "SelfCAD Tier 2 - 50 Users",
+        "price": "$119",
+        "notes": "SelfCAD is an intuitive 3D modeling program packed with all the tools you need to create 3D designs from start to finish",
+        "tier": 2,
+        "reseller": "Sainey NDong",
+        "date": ""
+    },
+    {
+        "id": "",
+        "product_name": "Shorby Agency - old deal with No Branding",
+        "price": "$117",
+        "notes": "Shorby is a tool that turns any bio link into an impressive micro landing page that drives traffic and conversions",
+        "tier": 1,
+        "reseller": "Sainey NDong",
+        "date": ""
+    },
+    {
+        "id": "",
+        "product_name": "Sleekplan - 5 Users, 1 Company",
+        "price": "$59",
+        "notes": "Sleekplan is an all-in-one feedback tool that organizes user requests and brings feature voting boards, roadmaps, changelogs, and CSAT surveys to your website.",
+        "tier": 1,
+        "reseller": "Sainey NDong",
+        "date": ""
+    },
+    {
+        "id": "",
+        "product_name": "Smart Quiz Builder x1 - 10 websites",
+        "price": "$59",
+        "notes": "Smart Quiz Builder lets you build stunning quiz funnels to generate leads, segment your audience, and recommend the right products to prospects.",
+        "tier": 1,
+        "reseller": "Sainey NDong",
+        "date": ""
+    },
+    {
+        "id": "",
+        "product_name": "Stacks x5 - Pro Plan, 10 Projects",
+        "price": "$295",
+        "notes": "Stacks, the smoothest & easiest way to create your native ( iOS & Android ) app without a single line of code in just a few minutes.",
+        "tier": 5,
+        "reseller": "Sainey NDong",
+        "date": ""
+    },
+    {
+        "id": "",
+        "product_name": "Sturppy Tier 2 - Unlimited Users & Projects",
+        "price": "$89",
+        "notes": "Sturppy lets you create a financial model for your startup and share business forecasts with both your team and investors.",
+        "tier": 3,
+        "reseller": "Sainey NDong",
+        "date": ""
+    },
+    {
+        "id": "",
+        "product_name": "Superdocu Tier 2 - 50GB, Unlimited Users",
+        "price": "$109",
+        "notes": "Superdocu is a platform that can collect, validate, and keep your third-party data current within a secure and customized portal.",
+        "tier": 3,
+        "reseller": "Sainey NDong",
+        "date": ""
+    },
+    {
+        "id": "",
+        "product_name": "SuperOkay Tier 3 - Whitelabel, Unlimited Users & Projects",
+        "price": "$199",
+        "notes": "SuperOkay gives you a unified easy-to-use interface to share all your links and documents with your clients and partners.",
+        "tier": 3,
+        "reseller": "Sainey NDong",
+        "date": ""
+    },
+    {
+        "id": "",
+        "product_name": "Synthesys Tier 2 - Unlimited Voice-Over & Videos",
+        "price": "$179",
+        "notes": "Synthesys is the world’s first-ever software that turns any text into a real human voice-over. With this tool, you can rapidly grow & scale your business using next-generation Synthetic Speech Technology.",
+        "tier": 2,
+        "reseller": "Sainey NDong",
+        "date": ""
+    },
+    {
+        "id": "",
+        "product_name": "TeleportHQ Tier 1 - 1 Workspace, 5 Editors, 3 CNAME, Unlimited Projects, Free Code Export",
+        "price": "$79",
+        "notes": "teleportHQ is the professional website builder made for developers with clean code export to HTML, CSS and 9 different Javascript frameworks.",
+        "tier": 1,
+        "reseller": "Sainey NDong",
+        "date": ""
+    },
+    {
+        "id": "",
+        "product_name": "Trakto x1 - 5 Team members, 5 Workspaces",
+        "price": "$49",
+        "notes": "Trakto is an easy-to-use online design editor that helps you create professional sales and marketing materials with templates, images, icons, shapes, and more.",
+        "tier": 1,
+        "reseller": "Sainey NDong",
+        "date": ""
+    },
+    {
+        "id": "",
+        "product_name": "Two Minute Reports for Google Data Studio Tier 3 - 15 Users, Unlimited data sources",
+        "price": "$209",
+        "notes": "Two Minute Reports is a self-service analytics platform that helps you monitor campaigns and explore real-time insights through interactive reports.",
+        "tier": 1,
+        "reseller": "Sainey NDong",
+        "date": ""
+    },
+    {
+        "id": "",
+        "product_name": "UIlicious Tier 1 - 1 User, 2 concurrencies, Chrome",
+        "price": "$59",
+        "notes": "UIlicious is a low-code tool that lets you test user journeys for your website and monitor results across browsers.",
+        "tier": 1,
+        "reseller": "Sainey NDong",
+        "date": ""
+    },
+    {
+        "id": "",
+        "product_name": "Uteach Tier 1 - 5 Admin Users, Unlimited Courses",
+        "price": "$99",
+        "notes": "Uteach is an online teaching platform that lets you build and sell courses, plus design a custom website with premade templates.",
+        "tier": 1,
+        "reseller": "Sainey NDong",
+        "date": ""
+    },
+    {
+        "id": "",
+        "product_name": "Vaizle x1 - 30 Social Profiles",
+        "price": "$69",
+        "notes": "Vaizle is a social media analytics tool for businesses that need simple, actionable insights.",
+        "tier": 1,
+        "reseller": "Sainey NDong",
+        "date": ""
+    },
+    {
+        "id": "",
+        "product_name": "VBOUT Tier 5 - Agency Whitelabel, 100k Emails, 20 Subaccounts",
+        "price": "$699",
+        "notes": "VBOUT is an all-in-one marketing automation platform that helps you convert leads and nurture campaigns at scale using powerful analysis and targeting tools.",
+        "tier": 5,
+        "reseller": "Sainey NDong",
+        "date": ""
+    },
+    {
+        "id": "",
+        "product_name": "Vidstep x1 - 1 User, 25GB, Custom Branding",
+        "price": "$59",
+        "notes": "Vidstep is an instructional, smart video app that helps you easily create \"click, play, do\" instructional video content for product demos, sales, team support and micro courses.",
+        "tier": 1,
+        "reseller": "Sainey NDong",
+        "date": ""
+    },
+    {
+        "id": "",
+        "product_name": "WP Compress Tier 4 - Whitelabel, 5M Optimazation",
+        "price": "$199",
+        "notes": "WP Compress Image Optimizer for WordPress slashes website load time, boost SEO ranks, and increase conversions with our WordPress image optimization plugin.",
+        "tier": 4,
+        "reseller": "Sainey NDong",
+        "date": ""
+    },
+    {
+        "id": "",
+        "product_name": "YayMail Pro by YayCommerce x3 - Unlimited Sites",
+        "price": "$267",
+        "notes": "YayMail by YayCommerce is a code-free email framework for WooCommerce that lets you customize transactional and marketing email templates.",
+        "tier": 1,
+        "reseller": "Sainey NDong",
+        "date": ""
+    },
+    {
+        "id": "",
+        "product_name": "Ahsuite x3 - Agency Plus, Whitelabel, Unlimited Landing Pages & Sub-Accounts",
+        "price": "$234",
+        "notes": "Ahsuite is a business management platform that lets you build easy-access client portals and boost productivity with collaboration tools.",
+        "tier": 3,
+        "reseller": "Sainey NDong",
+        "date": ""
+    },
+    {
+        "id": "",
+        "product_name": "API Spreadsheets Tier 1 - 5 Users, 50 Files, 50k Rows per file",
+        "price": "$69",
+        "notes": "API Spreadsheets is a suite of developer tools that lets you build spreadsheet importing, reading, reporting, and other complex capabilities in your applications.",
+        "tier": 1,
+        "reseller": "Sainey NDong",
+        "date": ""
+    },
+    {
+        "id": "",
+        "product_name": "Beacon x3 - 25 Users, Unlimited Domains",
+        "price": "$237",
+        "notes": "Beacon is an all-in-one tool that helps you create professional lead magnets, opt-in forms, and resource libraries to boost lead generation.",
+        "tier": 3,
+        "reseller": "Sainey NDong",
+        "date": ""
+    },
+    {
+        "id": "",
+        "product_name": "Calido Tier 3 - 50 Users, Unlimited Workspace",
+        "price": "$229",
+        "notes": "Calido is a product management platform that simplifies product development with intelligent roadmaps, custom shared views, and an open data model.",
+        "tier": 3,
+        "reseller": "Sainey NDong",
+        "date": ""
+    },
+    {
+        "id": "",
+        "product_name": "Creaitor ai - 5 Users, Unlimited Characters",
+        "price": "$89",
+        "notes": "Creaitor AI is a new artificial intelligence writer that promises to help you create high-quality content quickly and easily.",
+        "tier": 1,
+        "reseller": "Sainey NDong",
+        "date": ""
+    },
+    {
+        "id": "",
+        "product_name": "Joinchat Tier 2 - 1000 Sites",
+        "price": "$99",
+        "notes": "Joinchat is a no-code WordPress plugin that captures more leads with contact buttons that connect via WhatsApp and other messaging tools.",
+        "tier": 2,
+        "reseller": "Sainey NDong",
+        "date": ""
+    },
+    {
+        "id": "",
+        "product_name": "Mailercloud Tier 4 - 50,000 Contacts",
+        "price": "$269",
+        "notes": "Mailercloud is a powerful email marketing platform that lets you create professionally designed email campaigns that grow your subscriber list.",
+        "tier": 4,
+        "reseller": "Sainey NDong",
+        "date": ""
+    },
+    {
+        "id": "",
+        "product_name": "Mobilzer x1 - 5 Mobile Web apps, 5 App Admins",
+        "price": "$49",
+        "notes": "Mobilzer is a no-code app builder that makes it easy to launch mobile apps for iPhones and Androids, so you can sell online instantly.",
+        "tier": 1,
+        "reseller": "Sainey NDong",
+        "date": ""
+    },
+    {
+        "id": "",
+        "product_name": "NeuronWriter x5 - Diamond Plan, 50 Projects, 75k AI Credits",
+        "price": "$295",
+        "notes": "Neuronwriter is an advanced content editor that uses semantic models (NLP), Google SERP analysis and competition data to help you plan and optimize content. With its unique approach, Neurowriter can help you create high-quality, accurate articles that will help your website stand out from the rest.",
+        "tier": 5,
+        "reseller": "Sainey NDong",
+        "date": ""
+    },
+    {
+        "id": "",
+        "product_name": "Quickblog x5 - 90 Blog Domains, Unlimited Users",
+        "price": "$345",
+        "notes": "Quickblog is an SEO-focused blogging solution that makes it easy to manage and optimize higher-ranking blogs",
+        "tier": 5,
+        "reseller": "Sainey NDong",
+        "date": ""
+    },
+    {
+        "id": "",
+        "product_name": "Robot alp Tier 4 - Unlimited Monitor, Unlimited Users",
+        "price": "$309",
+        "notes": "Robot.alp is a site monitoring suite for key indicators like uptime, page speed, and safe browsing that notifies you immediately of any issues.",
+        "tier": 4,
+        "reseller": "Sainey NDong",
+        "date": ""
+    },
+    {
+        "id": "",
+        "product_name": "SocialJuice Tier 3 - CNAME, Unlimited Workspaces",
+        "price": "$149",
+        "notes": "SocialJuice makes it easy to collect video or text testimonials from clients that you can share on your website and social media.",
+        "tier": 1,
+        "reseller": "Sainey NDong",
+        "date": ""
+    },
+    {
+        "id": "",
+        "product_name": "Soon Tier 1 - 5 users",
+        "price": "$59",
+        "notes": "Soon is a collaborative employee scheduling software that helps you track shifts, manage leave requests, and streamline communication.",
+        "tier": 1,
+        "reseller": "Sainey NDong",
+        "date": ""
+    },
+    {
+        "id": "",
+        "product_name": "Wiremo Tier 1 - 10 users, 10k emails",
+        "price": "$69",
+        "notes": "Wiremo showcases your best customer reviews and automates customer surveys so you can leverage more social proof on your website.",
+        "tier": 1,
+        "reseller": "Sainey NDong",
+        "date": ""
+    },
+    {
+        "id": "",
+        "product_name": "WooLentor x2 - Unlimited Websites",
+        "price": "$138",
+        "notes": "WooLentor is a plugin that helps make your WooCommerce pages more user-friendly with features like filters and multi-step checkout.",
+        "tier": 2,
+        "reseller": "Sainey NDong",
+        "date": ""
+    },
+    {
+        "id": "",
+        "product_name": "Wordplay - Long-Form AI Writer - 7,500 Words Monthly",
+        "price": "$99",
+        "notes": "Wordplay makes it dead simple to create high-quality content quickly and optimize it in a way that requires minimal edits from you afterward.",
+        "tier": 1,
+        "reseller": "Sainey NDong",
+        "date": ""
+    },
+    {
+        "id": "",
+        "product_name": "Adriel Tier 1 - 3 Data Sources, Up to $3k",
+        "price": "$79",
+        "notes": "Adriel is a platform that connects all your paid marketing channel data into one dashboard with tools to monitor, manage, and optimize performance.",
+        "tier": 1,
+        "reseller": "Sainey NDong",
+        "date": ""
+    },
+    {
+        "id": "",
+        "product_name": "Aikido Finance LTD Plan",
+        "price": "$59",
+        "notes": "Aikido Finance provides data-driven, algo-trading strategies to automate your investing, so you can build a portfolio in minutes.",
+        "tier": 1,
+        "reseller": "Sainey NDong",
+        "date": ""
+    },
+    {
+        "id": "",
+        "product_name": "Amberscript Tier 1 - 2 Hours Monthly Upload",
+        "price": "$69",
+        "notes": "Amberscript is a transcription and subtitling tool that uses amazingly accurate AI engines to automatically convert your audio or video to text and subtitles.",
+        "tier": 1,
+        "reseller": "Sainey NDong",
+        "date": ""
+    },
+    {
+        "id": "",
+        "product_name": "Captain Data Tier 1 - 25k Task",
+        "price": "$99",
+        "notes": "Captain Data is a no-code automation platform for data extraction and enrichment to automate processes like lead generation and CRM enrichment.",
+        "tier": 1,
+        "reseller": "Sainey NDong",
+        "date": ""
+    },
+    {
+        "id": "",
+        "product_name": "CompanyHub - Accelerate Plan - 2 Users",
+        "price": "$299",
+        "notes": "CompanyHub is a SaaS (Software as a service) platform. It is challenging for CRM software to meet everyone's sales processes team's needs, but CompanyHub software is a rescue because it is fully customizable and easily adapts to their requirements without any code.",
+        "tier": 1,
+        "reseller": "Sainey NDong",
+        "date": ""
+    },
+    {
+        "id": "",
+        "product_name": "ContentStudio Pro - 2 Users, 10 Social Accounts",
+        "price": "$79",
+        "notes": "ContentStudio is the only complete content marketing and social media management tool that allows you to discover trending content, compose compelling posts, get approval from clients/team and share content across all your channels - on complete autopilot!",
+        "tier": 1,
+        "reseller": "Sainey NDong",
+        "date": ""
+    },
+    {
+        "id": "",
+        "product_name": "ContentStudio Agency Small - 5 Users, 25 Social Accounts",
+        "price": "$149",
+        "notes": "ContentStudio is the only complete content marketing and social media management tool that allows you to discover trending content, compose compelling posts, get approval from clients/team and share content across all your channels - on complete autopilot!",
+        "tier": 1,
+        "reseller": "Sainey NDong",
+        "date": ""
+    },
+    {
+        "id": "",
+        "product_name": "Daftpage x1 - Unlimited Websites",
+        "price": "$69",
+        "notes": "Daftpage is the simplest way to build fun and effective landing pages in minutes.",
+        "tier": 1,
+        "reseller": "Sainey NDong",
+        "date": ""
+    },
+    {
+        "id": "",
+        "product_name": "Hide My WP Ghost x1 - 10 Websites",
+        "price": "$59",
+        "notes": "Hide My WP Ghost is a premium plugin for WordPress websites which was made by the developers of Squirrly SEO. Easily protect your site and data against spams and attacks from hackers and bots.",
+        "tier": 1,
+        "reseller": "Sainey NDong",
+        "date": ""
+    },
+    {
+        "id": "",
+        "product_name": "Hide My WP Ghost x3 - Unlimited Sites + Whitelabel",
+        "price": "$177",
+        "notes": "Hide My WP Ghost is a premium plugin for WordPress websites which was made by the developers of Squirrly SEO. Easily protect your site and data against spams and attacks from hackers and bots.",
+        "tier": 1,
+        "reseller": "Sainey NDong",
+        "date": ""
+    },
+    {
+        "id": "",
+        "product_name": "IdeaNote x2 - Unlimited Ideas",
+        "price": "$118",
+        "notes": "Ideanote is an all-in-one innovation platform that empowers your team to capture, develop, and prioritize your best business ideas.",
+        "tier": 1,
+        "reseller": "Sainey NDong",
+        "date": ""
+    },
+    {
+        "id": "",
+        "product_name": "Jami Tier 1 - 3 Hosted Sites",
+        "price": "$79",
+        "notes": "Not found",
+        "tier": 1,
+        "reseller": "Sainey NDong",
+        "date": ""
+    },
+    {
+        "id": "",
+        "product_name": "Listnr x1 - 75,000 words, Whitelabel",
+        "price": "$79",
+        "notes": "Listnr is an AI conversion tool that lets you easily transform text to voice-based content, using a library of 270+ natural sounding AI voices.",
+        "tier": 1,
+        "reseller": "Sainey NDong",
+        "date": ""
+    },
+    {
+        "id": "",
+        "product_name": "LoopedIn x1 - 1 custom domains",
+        "price": "$69",
+        "notes": "LoopedIn is an all-in-one solution for collecting customer ideas, building roadmaps, sharing announcements, and managing feedback.",
+        "tier": 1,
+        "reseller": "Sainey NDong",
+        "date": ""
+    },
+    {
+        "id": "",
+        "product_name": "LoopedIn x5 - Unlimited Domains + Whitelabel",
+        "price": "$345",
+        "notes": "LoopedIn is an all-in-one solution for collecting customer ideas, building roadmaps, sharing announcements, and managing feedback.",
+        "tier": 1,
+        "reseller": "Sainey NDong",
+        "date": ""
+    },
+    {
+        "id": "",
+        "product_name": "Nifty PM x1 - 3 Users",
+        "price": "$79",
+        "notes": "Nifty is a remote collaboration hub that helps you consolidate projects, goals, and communications to streamline your entire workflow.",
+        "tier": 1,
+        "reseller": "Sainey NDong",
+        "date": ""
+    },
+    {
+        "id": "",
+        "product_name": "Nozzle Tier 1 - 5k Keywords",
+        "price": "$59",
+        "notes": "Nozzle is a full search engine results page (SERP) monitoring tool that gives you access to all the data for every keyword relevant to your brand.",
+        "tier": 1,
+        "reseller": "Sainey NDong",
+        "date": ""
+    },
+    {
+        "id": "",
+        "product_name": "OneHash CRM x3 - 35 Users, Whitelabel",
+        "price": "$207",
+        "notes": "Highly agile, customer friendly, world’s best, and economical SaaS based CRM and ERP solution.",
+        "tier": 1,
+        "reseller": "Sainey NDong",
+        "date": ""
+    },
+    {
+        "id": "",
+        "product_name": "Plutio with Whitelabel, 20 Teammates",
+        "price": "$316",
+        "notes": "Plutio allows you to manage your business from A to Z on one intuitive, centralized, and deeply customizable platform.",
+        "tier": 1,
+        "reseller": "Sainey NDong",
+        "date": ""
+    },
+    {
+        "id": "",
+        "product_name": "Plutio with Whitelabel, 50 Teammates",
+        "price": "$750",
+        "notes": "Plutio allows you to manage your business from A to Z on one intuitive, centralized, and deeply customizable platform.",
+        "tier": 1,
+        "reseller": "Sainey NDong",
+        "date": ""
+    },
+    {
+        "id": "",
+        "product_name": "QuestionScout Solo - 1 User & 1 Domain",
+        "price": "$59",
+        "notes": "QuestionScout helps you create forms and surveys that your customers will love. Helping modern teams collect better data & make faster decisions. Create & automate your data collection with QuestionScout.",
+        "tier": 1,
+        "reseller": "Sainey NDong",
+        "date": ""
+    },
+    {
+        "id": "",
+        "product_name": "Quickblog x2 - 6 Domains",
+        "price": "$138",
+        "notes": "Quickblog is an SEO-focused blogging solution that makes it easy to manage and optimize higher-ranking blogs.",
+        "tier": 2,
+        "reseller": "Sainey NDong",
+        "date": ""
+    },
+    {
+        "id": "",
+        "product_name": "Ranktracker Tier 1 - Unlimited Users & Domains, 100 Daily Keywords, 20 Competitors per Domain",
+        "price": "$49",
+        "notes": "Ranktracker is an SEO platform where you can view, track, and analyze your search engine rankings for all your target keywords",
+        "tier": 1,
+        "reseller": "Sainey NDong",
+        "date": ""
+    },
+    {
+        "id": "",
+        "product_name": "ReMaster Media x1 - 3 Hours",
+        "price": "$69",
+        "notes": "ReMasterMedia lets you optimize your audio and video clips to give you superior sound in only a few minutes.",
+        "tier": 1,
+        "reseller": "Sainey NDong",
+        "date": ""
+    },
+    {
+        "id": "",
+        "product_name": "Robomotion RPA Tier 1 - 2 Users, 2 Robots, 25 Flows",
+        "price": "$79",
+        "notes": "Robomotion handles dull everyday tasks with robotic process automation technology. Delegate your tasks to our software robots and they can work 24/7.",
+        "tier": 1,
+        "reseller": "Sainey NDong",
+        "date": ""
+    },
+    {
+        "id": "",
+        "product_name": "Robomotion RPA Tier 2 - 4 Users, 4 Prod Robots, 50 Flows, Triggers",
+        "price": "$149",
+        "notes": "Robomotion handles dull everyday tasks with robotic process automation technology. Delegate your tasks to our software robots and they can work 24/7.",
+        "tier": 2,
+        "reseller": "Sainey NDong",
+        "date": ""
+    },
+    {
+        "id": "",
+        "product_name": "SpeedPPC x1 - Unlimited Campaigns",
+        "price": "$69",
+        "notes": "SpeedPPC is a pay-per-click campaign builder that helps you create hyper-targeted ad campaigns that actually convert.",
+        "tier": 1,
+        "reseller": "Sainey NDong",
+        "date": ""
+    },
+    {
+        "id": "",
+        "product_name": "Vyper Pro - 10k Revenue & 10k Participants Monthly",
+        "price": "$499",
+        "notes": "VYPER is an email marketing tool that allows you to create stunning giveaways that help you collect emails. Once a user enters your contest with their email address, they're incentivized to share your contest (via email or social media) in order to get more entries.",
+        "tier": 1,
+        "reseller": "Sainey NDong",
+        "date": ""
+    },
+    {
+        "id": "",
+        "product_name": "ZeroIn x1 - 1 User, 4k Email Finder, 6k Email Verify",
+        "price": "$49",
+        "notes": "ZeroIn lets you collect targeted business data from LinkedIn and then verify emails to use for your outreach campaigns.",
+        "tier": 1,
+        "reseller": "Sainey NDong",
+        "date": ""
+    },
+    {
+        "id": "",
+        "product_name": "",
+        "price": "",
+        "notes": "",
+        "tier": "",
+        "reseller": "",
+        "date": ""
+    },
+    {
+        "id": "",
+        "product_name": "Heights Platform",
+        "price": "$109",
+        "notes": "",
+        "tier": 1,
+        "reseller": "Ihor Pohl",
+        "date": ""
+    },
+    {
+        "id": "",
+        "product_name": "Meetgeek -",
+        "price": "$69",
+        "notes": "",
+        "tier": 1,
+        "reseller": "Ihor Pohl",
+        "date": ""
+    },
+    {
+        "id": "",
+        "product_name": "Desku io -",
+        "price": "$79",
+        "notes": "",
+        "tier": 1,
+        "reseller": "Ihor Pohl",
+        "date": ""
+    },
+    {
+        "id": "",
+        "product_name": "Acumbamail t1 -",
+        "price": "$99",
+        "notes": "",
+        "tier": 1,
+        "reseller": "Ihor Pohl",
+        "date": ""
+    },
+    {
+        "id": "",
+        "product_name": "TuCalendi -",
+        "price": "$79",
+        "notes": "",
+        "tier": 1,
+        "reseller": "Ihor Pohl",
+        "date": ""
+    },
+    {
+        "id": "",
+        "product_name": "Aikido Finance -",
+        "price": "$69",
+        "notes": "",
+        "tier": 1,
+        "reseller": "Ihor Pohl",
+        "date": ""
+    },
+    {
+        "id": "",
+        "product_name": "wpDataTables -",
+        "price": "$79",
+        "notes": "",
+        "tier": 1,
+        "reseller": "Ihor Pohl",
+        "date": ""
+    },
+    {
+        "id": "",
+        "product_name": "Mailivery - tier 1 -",
+        "price": "$79",
+        "notes": "",
+        "tier": 1,
+        "reseller": "Ihor Pohl",
+        "date": ""
+    },
+    {
+        "id": "",
+        "product_name": "Usetiful - $79",
+        "price": "$79",
+        "notes": "",
+        "tier": 1,
+        "reseller": "Ihor Pohl",
+        "date": ""
+    },
+    {
+        "id": "",
+        "product_name": "Zeroin -",
+        "price": "$59",
+        "notes": "",
+        "tier": 1,
+        "reseller": "Ihor Pohl",
+        "date": ""
+    },
+    {
+        "id": "",
+        "product_name": "Robomotion RPA t2 - $169 $ , t4 -",
+        "price": "$499",
+        "notes": "",
+        "tier": 1,
+        "reseller": "Ihor Pohl",
+        "date": ""
+    },
+    {
+        "id": "",
+        "product_name": "Swell t1 -",
+        "price": "$89",
+        "notes": "",
+        "tier": 1,
+        "reseller": "Ihor Pohl",
+        "date": ""
+    },
+    {
+        "id": "",
+        "product_name": "typedesk -",
+        "price": "$69",
+        "notes": "",
+        "tier": 1,
+        "reseller": "Ihor Pohl",
+        "date": ""
+    },
+    {
+        "id": "",
+        "product_name": "Ocoya -",
+        "price": "$79",
+        "notes": "",
+        "tier": 1,
+        "reseller": "Ihor Pohl",
+        "date": ""
+    },
+    {
+        "id": "",
+        "product_name": "Predis .ai -",
+        "price": "$79",
+        "notes": "",
+        "tier": 1,
+        "reseller": "Ihor Pohl",
+        "date": ""
+    },
+    {
+        "id": "",
+        "product_name": "Wisecut - t1 -",
+        "price": "$79",
+        "notes": "",
+        "tier": 1,
+        "reseller": "Ihor Pohl",
+        "date": ""
+    },
+    {
+        "id": "",
+        "product_name": "Biteplay -",
+        "price": "$109",
+        "notes": "",
+        "tier": 1,
+        "reseller": "Ihor Pohl",
+        "date": ""
+    },
+    {
+        "id": "",
+        "product_name": "Gravitec -",
+        "price": "$69",
+        "notes": "",
+        "tier": 1,
+        "reseller": "Ihor Pohl",
+        "date": ""
+    },
+    {
+        "id": "",
+        "product_name": "Swell t1 -",
+        "price": "$89",
+        "notes": "",
+        "tier": 1,
+        "reseller": "Ihor Pohl",
+        "date": ""
+    },
+    {
+        "id": "",
+        "product_name": "Flokzu t1 -",
+        "price": "$79",
+        "notes": "",
+        "tier": 1,
+        "reseller": "Ihor Pohl",
+        "date": ""
+    },
+    {
+        "id": "",
+        "product_name": "WPFunnels t3 -",
+        "price": "$239",
+        "notes": "",
+        "tier": 1,
+        "reseller": "Ihor Pohl",
+        "date": ""
+    },
+    {
+        "id": "",
+        "product_name": "Bramework t1- $99, t2 - 179, t3-$299, t4 -",
+        "price": "$499",
+        "notes": "",
+        "tier": 1,
+        "reseller": "Ihor Pohl",
+        "date": ""
+    },
+    {
+        "id": "",
+        "product_name": "TrueRanker t1 - $79, t3 -",
+        "price": "$199",
+        "notes": "",
+        "tier": 1,
+        "reseller": "Ihor Pohl",
+        "date": ""
+    },
+    {
+        "id": "",
+        "product_name": "Melon -",
+        "price": "$179",
+        "notes": "",
+        "tier": 1,
+        "reseller": "Ihor Pohl",
+        "date": ""
+    },
+    {
+        "id": "",
+        "product_name": "Expoze -",
+        "price": "$59",
+        "notes": "",
+        "tier": 1,
+        "reseller": "Ihor Pohl",
+        "date": ""
+    },
+    {
+        "id": "",
+        "product_name": "VBOUT t2 - $199 t5 -",
+        "price": "$649",
+        "notes": "",
+        "tier": 1,
+        "reseller": "Ihor Pohl",
+        "date": ""
+    },
+    {
+        "id": "",
+        "product_name": "SOUNDRAW -",
+        "price": "$99",
+        "notes": "",
+        "tier": 1,
+        "reseller": "Ihor Pohl",
+        "date": ""
+    },
+    {
+        "id": "",
+        "product_name": "Mega Creator - t1 -",
+        "price": "$69",
+        "notes": "",
+        "tier": 1,
+        "reseller": "Ihor Pohl",
+        "date": ""
+    },
+    {
+        "id": "",
+        "product_name": "ReMasterMedia -",
+        "price": "$79",
+        "notes": "",
+        "tier": 1,
+        "reseller": "Ihor Pohl",
+        "date": ""
+    },
+    {
+        "id": "",
+        "product_name": "Easynote -",
+        "price": "$79",
+        "notes": "",
+        "tier": 1,
+        "reseller": "Ihor Pohl",
+        "date": ""
+    },
+    {
+        "id": "",
+        "product_name": "Bamboo Cloud t2 -",
+        "price": "$149",
+        "notes": "",
+        "tier": 1,
+        "reseller": "Ihor Pohl",
+        "date": ""
+    },
+    {
+        "id": "",
+        "product_name": "WP 301 Redirects t1 -",
+        "price": "$59",
+        "notes": "",
+        "tier": 1,
+        "reseller": "Ihor Pohl",
+        "date": ""
+    },
+    {
+        "id": "",
+        "product_name": "Spoke t2 -",
+        "price": "$179",
+        "notes": "",
+        "tier": 1,
+        "reseller": "Ihor Pohl",
+        "date": ""
+    },
+    {
+        "id": "",
+        "product_name": "Nexweave t2 - $129, t4 -",
+        "price": "$399",
+        "notes": "",
+        "tier": 1,
+        "reseller": "Ihor Pohl",
+        "date": ""
+    },
+    {
+        "id": "",
+        "product_name": "Hide My WP Ghost by Squirrly x2 -",
+        "price": "$149",
+        "notes": "",
+        "tier": 1,
+        "reseller": "Ihor Pohl",
+        "date": ""
+    },
+    {
+        "id": "",
+        "product_name": "Better Uptime - $99, t5 - 499",
+        "price": "$99",
+        "notes": "",
+        "tier": 1,
+        "reseller": "Ihor Pohl",
+        "date": ""
+    },
+    {
+        "id": "",
+        "product_name": "Brick – x10 (Unlimited Workspaces, 200 Users, Newsletters, Unlimited Sub-domains, Unlimited Custom Domains) -",
+        "price": "$390",
+        "notes": "",
+        "tier": 10,
+        "reseller": "Ihor Pohl",
+        "date": ""
+    },
+    {
+        "id": "",
+        "product_name": "Momento 50 domains -",
+        "price": "$49",
+        "notes": "",
+        "tier": 1,
+        "reseller": "Ihor Pohl",
+        "date": ""
+    },
+    {
+        "id": "",
+        "product_name": "LoopedIn -",
+        "price": "$99",
+        "notes": "",
+        "tier": 1,
+        "reseller": "Ihor Pohl",
+        "date": ""
+    },
+    {
+        "id": "",
+        "product_name": "CRELLO pro (VISTA) –",
+        "price": "$99",
+        "notes": "",
+        "tier": 1,
+        "reseller": "Ihor Pohl",
+        "date": ""
+    },
+    {
+        "id": "",
+        "product_name": "StatusPing - $39, x5 -",
+        "price": "$175",
+        "notes": "",
+        "tier": 5,
+        "reseller": "Ihor Pohl",
+        "date": ""
+    },
+    {
+        "id": "",
+        "product_name": "Stackable (best Gutenberg addon) unlimited sites -",
+        "price": "$299",
+        "notes": "",
+        "tier": 1,
+        "reseller": "Ihor Pohl",
+        "date": ""
+    },
+    {
+        "id": "",
+        "product_name": "Happy Scribe -",
+        "price": "$99",
+        "notes": "",
+        "tier": 1,
+        "reseller": "Ihor Pohl",
+        "date": ""
+    },
+    {
+        "id": "",
+        "product_name": "Rasa (tier 1) -",
+        "price": "$79",
+        "notes": "",
+        "tier": 1,
+        "reseller": "Ihor Pohl",
+        "date": ""
+    },
+    {
+        "id": "",
+        "product_name": "Piar.io -",
+        "price": "$65",
+        "notes": "",
+        "tier": 1,
+        "reseller": "Ihor Pohl",
+        "date": ""
+    },
+    {
+        "id": "",
+        "product_name": "Post-maker -",
+        "price": "$75",
+        "notes": "",
+        "tier": 1,
+        "reseller": "Ihor Pohl",
+        "date": ""
+    },
+    {
+        "id": "",
+        "product_name": "Hockeyastack -",
+        "price": "$99",
+        "notes": "",
+        "tier": 1,
+        "reseller": "Ihor Pohl",
+        "date": ""
+    },
+    {
+        "id": "",
+        "product_name": "Axeptio – x10 Unlimited Domains, 2 Million Unique Visitors per month -",
+        "price": "$599",
+        "notes": "",
+        "tier": 1,
+        "reseller": "Ihor Pohl",
+        "date": ""
+    },
+    {
+        "id": "",
+        "product_name": "Smart Quiz Builder x3 (unlimited) -",
+        "price": "$199",
+        "notes": "",
+        "tier": 1,
+        "reseller": "Ihor Pohl",
+        "date": ""
+    },
+    {
+        "id": "",
+        "product_name": "Wabwave -",
+        "price": "$69",
+        "notes": "",
+        "tier": 1,
+        "reseller": "Ihor Pohl",
+        "date": ""
+    },
+    {
+        "id": "",
+        "product_name": "SpreadSimple -",
+        "price": "$99",
+        "notes": "",
+        "tier": 1,
+        "reseller": "Ihor Pohl",
+        "date": ""
+    },
+    {
+        "id": "",
+        "product_name": "Flutin Live tier 3 -",
+        "price": "$249",
+        "notes": "",
+        "tier": 3,
+        "reseller": "Ihor Pohl",
+        "date": ""
+    },
+    {
+        "id": "",
+        "product_name": "13chats t3, white lable - $199 , t5-299",
+        "price": "$199",
+        "notes": "",
+        "tier": 1,
+        "reseller": "Ihor Pohl",
+        "date": ""
+    },
+    {
+        "id": "",
+        "product_name": "BLOCKSY agency unlimited sites",
+        "price": "$249",
+        "notes": "",
+        "tier": 1,
+        "reseller": "Ihor Pohl",
+        "date": ""
+    },
+    {
+        "id": "",
+        "product_name": "Directorist 5 sites -",
+        "price": "$299",
+        "notes": "",
+        "tier": 1,
+        "reseller": "Ihor Pohl",
+        "date": ""
+    },
+    {
+        "id": "",
+        "product_name": "Hexomatic 1 code Silver -",
+        "price": "$199",
+        "notes": "",
+        "tier": 1,
+        "reseller": "Ihor Pohl",
+        "date": ""
+    },
+    {
+        "id": "",
+        "product_name": "Hexomatic 1 code Silver + Hexowatch gold 10000 -",
+        "price": "$499",
+        "notes": "",
+        "tier": 1,
+        "reseller": "Ihor Pohl",
+        "date": ""
+    },
+    {
+        "id": "",
+        "product_name": "Hexomatic 2 codes GOLD + Hexowatch gold 10000 -",
+        "price": "$649",
+        "notes": "",
+        "tier": 2,
+        "reseller": "Ihor Pohl",
+        "date": ""
+    },
+    {
+        "id": "",
+        "product_name": "Crello Pro, 10 team members (Vista) -",
+        "price": "$99",
+        "notes": "",
+        "tier": 1,
+        "reseller": "Ihor Pohl",
+        "date": ""
+    },
+    {
+        "id": "",
+        "product_name": "TexAu 6 codes + unlimited desktop, (first appsumo launch deal) -",
+        "price": "$799",
+        "notes": "",
+        "tier": 1,
+        "reseller": "Ihor Pohl",
+        "date": ""
+    },
+    {
+        "id": "",
+        "product_name": "Oviond x1 -",
+        "price": "$119",
+        "notes": "",
+        "tier": 1,
+        "reseller": "Ihor Pohl",
+        "date": ""
+    },
+    {
+        "id": "",
+        "product_name": "Play.ht -",
+        "price": "$69",
+        "notes": "",
+        "tier": 1,
+        "reseller": "Ihor Pohl",
+        "date": ""
+    },
+    {
+        "id": "",
+        "product_name": "LOVO, tier 1 -",
+        "price": "$99",
+        "notes": "",
+        "tier": 1,
+        "reseller": "Ihor Pohl",
+        "date": ""
+    },
+    {
+        "id": "",
+        "product_name": "Uppbeat (unused) -",
+        "price": "$99",
+        "notes": "",
+        "tier": 1,
+        "reseller": "Ihor Pohl",
+        "date": ""
+    },
+    {
+        "id": "",
+        "product_name": "Bunnyshel 5 servers -",
+        "price": "$199",
+        "notes": "",
+        "tier": 1,
+        "reseller": "Ihor Pohl",
+        "date": ""
+    },
+    {
+        "id": "",
+        "product_name": "Sendinblue -",
+        "price": "$149",
+        "notes": "",
+        "tier": 1,
+        "reseller": "Ihor Pohl",
+        "date": ""
+    },
+    {
+        "id": "",
+        "product_name": "Run The World, tier 2 (sponsor) -",
+        "price": "$199",
+        "notes": "",
+        "tier": 1,
+        "reseller": "Ihor Pohl",
+        "date": ""
+    },
+    {
+        "id": "",
+        "product_name": "Weje -",
+        "price": "$79",
+        "notes": "",
+        "tier": 1,
+        "reseller": "Ihor Pohl",
+        "date": ""
+    },
+    {
+        "id": "",
+        "product_name": "WPreset White Label x1 - $59, x2 - 119",
+        "price": "$59",
+        "notes": "",
+        "tier": 1,
+        "reseller": "Ihor Pohl",
+        "date": ""
+    },
+    {
+        "id": "",
+        "product_name": "Filmstro tier 2 - $139",
+        "price": "$139",
+        "notes": "",
+        "tier": 2,
+        "reseller": "Ihor Pohl",
+        "date": ""
+    },
+    {
+        "id": "",
+        "product_name": "DesignPopo - $49",
+        "price": "$49",
+        "notes": "",
+        "tier": 1,
+        "reseller": "Ihor Pohl",
+        "date": ""
+    },
+    {
+        "id": "",
+        "product_name": "KDMARC x1- $99",
+        "price": "$99",
+        "notes": "",
+        "tier": 1,
+        "reseller": "Ihor Pohl",
+        "date": ""
+    },
+    {
+        "id": "",
+        "product_name": "Tyle -",
+        "price": "$65",
+        "notes": "",
+        "tier": 1,
+        "reseller": "Ihor Pohl",
+        "date": ""
+    },
+    {
+        "id": "",
+        "product_name": "Missinglettr curate -",
+        "price": "$149",
+        "notes": "",
+        "tier": 1,
+        "reseller": "Ihor Pohl",
+        "date": ""
+    },
+    {
+        "id": "",
+        "product_name": "Offeo -",
+        "price": "$110",
+        "notes": "",
+        "tier": 1,
+        "reseller": "Ihor Pohl",
+        "date": ""
+    },
+    {
+        "id": "",
+        "product_name": "Social snap 15 sites (best share buttons) -",
+        "price": "$85",
+        "notes": "",
+        "tier": 1,
+        "reseller": "Ihor Pohl",
+        "date": ""
+    },
+    {
+        "id": "",
+        "product_name": "WPvivid unlimited sites backup + image optimizer -",
+        "price": "$249",
+        "notes": "",
+        "tier": 1,
+        "reseller": "Ihor Pohl",
+        "date": ""
+    },
+    {
+        "id": "",
+        "product_name": "Feedbear -",
+        "price": "$79",
+        "notes": "",
+        "tier": 1,
+        "reseller": "Ihor Pohl",
+        "date": ""
+    },
+    {
+        "id": "",
+        "product_name": "Restream -",
+        "price": "$249",
+        "notes": "",
+        "tier": 1,
+        "reseller": "Ihor Pohl",
+        "date": ""
+    },
+    {
+        "id": "",
+        "product_name": "OneStream -",
+        "price": "$219",
+        "notes": "",
+        "tier": 1,
+        "reseller": "Ihor Pohl",
+        "date": ""
+    },
+    {
+        "id": "",
+        "product_name": "Videolinq lifetime (like Restream or OneStream) -",
+        "price": "$119",
+        "notes": "",
+        "tier": 1,
+        "reseller": "Ihor Pohl",
+        "date": ""
+    },
+    {
+        "id": "",
+        "product_name": "MELON -",
+        "price": "$179",
+        "notes": "",
+        "tier": 1,
+        "reseller": "Ihor Pohl",
+        "date": ""
+    },
+    {
+        "id": "",
+        "product_name": "MuxMail – tier1 -",
+        "price": "$79",
+        "notes": "",
+        "tier": 1,
+        "reseller": "Ihor Pohl",
+        "date": ""
+    },
+    {
+        "id": "",
+        "product_name": "Flixier -",
+        "price": "$99",
+        "notes": "",
+        "tier": 1,
+        "reseller": "Ihor Pohl",
+        "date": ""
+    },
+    {
+        "id": "",
+        "product_name": "Fluent WPSocialninja x1 - ,",
+        "price": "$219",
+        "notes": "",
+        "tier": 1,
+        "reseller": "Ihor Pohl",
+        "date": ""
+    },
+    {
+        "id": "",
+        "product_name": "Fluent Socialninja unlimited -",
+        "price": "$699",
+        "notes": "",
+        "tier": 1,
+        "reseller": "Ihor Pohl",
+        "date": ""
+    },
+    {
+        "id": "",
+        "product_name": "Fluent Support 1 -",
+        "price": "$219",
+        "notes": "",
+        "tier": 1,
+        "reseller": "Ihor Pohl",
+        "date": ""
+    },
+    {
+        "id": "",
+        "product_name": "Fluent Support 50 sites -",
+        "price": "$799",
+        "notes": "",
+        "tier": 1,
+        "reseller": "Ihor Pohl",
+        "date": ""
+    },
+    {
+        "id": "",
+        "product_name": "Wabvave sites -",
+        "price": "$79",
+        "notes": "",
+        "tier": 1,
+        "reseller": "Ihor Pohl",
+        "date": ""
+    },
+    {
+        "id": "",
+        "product_name": "Brizy Cloud (3 sites) -",
+        "price": "$199",
+        "notes": "",
+        "tier": 3,
+        "reseller": "Ihor Pohl",
+        "date": ""
+    },
+    {
+        "id": "",
+        "product_name": "Sitejet Tier 2 -",
+        "price": "$169",
+        "notes": "",
+        "tier": 2,
+        "reseller": "Ihor Pohl",
+        "date": ""
+    },
+    {
+        "id": "",
+        "product_name": "MetaBox all unlimited -",
+        "price": "$499",
+        "notes": "",
+        "tier": 1,
+        "reseller": "Ihor Pohl",
+        "date": ""
+    },
+    {
+        "id": "",
+        "product_name": "Scalenut unlimited d-unlimited –",
+        "price": "$1,699",
+        "notes": "",
+        "tier": 1,
+        "reseller": "Ihor Pohl",
+        "date": ""
+    },
+    {
+        "id": "",
+        "product_name": "Copywritely x3 (best grammarly alternative) -",
+        "price": "$249",
+        "notes": "",
+        "tier": 3,
+        "reseller": "Ihor Pohl",
+        "date": ""
+    },
+    {
+        "id": "",
+        "product_name": "Brandoverflow 1000k -",
+        "price": "$299",
+        "notes": "",
+        "tier": 1,
+        "reseller": "Ihor Pohl",
+        "date": ""
+    },
+    {
+        "id": "",
+        "product_name": "SerpWatch x1 - $79, x5 -",
+        "price": "$349",
+        "notes": "",
+        "tier": 1,
+        "reseller": "Ihor Pohl",
+        "date": ""
+    },
+    {
+        "id": "",
+        "product_name": "Backlinkseo (x2) starter plan (Backlink Monitoring Keyword Tracking Competitor Insights, Cold Emailing outreach x9) -",
+        "price": "$169",
+        "notes": "",
+        "tier": 2,
+        "reseller": "Ihor Pohl",
+        "date": ""
+    },
+    {
+        "id": "",
+        "product_name": "Autonamy + WPfunnels, 30 sites-",
+        "price": "$1,299",
+        "notes": "",
+        "tier": 1,
+        "reseller": "Ihor Pohl",
+        "date": ""
+    },
+    {
+        "id": "",
+        "product_name": "Whishlist Member x2 (10 sites) -",
+        "price": "$249",
+        "notes": "",
+        "tier": 2,
+        "reseller": "Ihor Pohl",
+        "date": ""
+    },
+    {
+        "id": "",
+        "product_name": "Marquiz t3 -",
+        "price": "$199",
+        "notes": "",
+        "tier": 3,
+        "reseller": "Ihor Pohl",
+        "date": ""
+    },
+    {
+        "id": "",
+        "product_name": "Questionscout (unlimited forms, unlimited entries, 1 cname) -",
+        "price": "$199",
+        "notes": "",
+        "tier": 1,
+        "reseller": "Ihor Pohl",
+        "date": ""
+    },
+    {
+        "id": "",
+        "product_name": "ResponseSuite Custom branded subdomain x1 (10,000 Monthly Responses, 50 Active Surveys) -",
+        "price": "$99",
+        "notes": "",
+        "tier": 1,
+        "reseller": "Ihor Pohl",
+        "date": ""
+    },
+    {
+        "id": "",
+        "product_name": "Sales.rock x2, 10 emails - $149 (below price)",
+        "price": "$149",
+        "notes": "",
+        "tier": 2,
+        "reseller": "Ihor Pohl",
+        "date": ""
+    },
+    {
+        "id": "",
+        "product_name": "Virusdie – a 1 site - $99 (cost price), b 5 sites - $179, unlimited domains –",
+        "price": "$999",
+        "notes": "",
+        "tier": 1,
+        "reseller": "Ihor Pohl",
+        "date": ""
+    },
+    {
+        "id": "",
+        "product_name": "Plutio, x7, 35 members, white lable - $499 (below cost)",
+        "price": "$499",
+        "notes": "",
+        "tier": 7,
+        "reseller": "Ihor Pohl",
+        "date": ""
+    },
+    {
+        "id": "",
+        "product_name": "Abtesting.ai 2 codes -",
+        "price": "$250",
+        "notes": "",
+        "tier": 2,
+        "reseller": "Rabi Jaiswal",
+        "date": ""
+    },
+    {
+        "id": "",
+        "product_name": "Accuranker",
+        "price": "$150",
+        "notes": "",
+        "tier": 1,
+        "reseller": "Rabi Jaiswal",
+        "date": ""
+    },
+    {
+        "id": "",
+        "product_name": "aikontent -",
+        "price": "$50",
+        "notes": "",
+        "tier": 1,
+        "reseller": "Rabi Jaiswal",
+        "date": ""
+    },
+    {
+        "id": "",
+        "product_name": "airtable creator plan -",
+        "price": "$250",
+        "notes": "",
+        "tier": 1,
+        "reseller": "Rabi Jaiswal",
+        "date": ""
+    },
+    {
+        "id": "",
+        "product_name": "ants and apps unlimited-",
+        "price": "$100",
+        "notes": "",
+        "tier": 1,
+        "reseller": "Rabi Jaiswal",
+        "date": ""
+    },
+    {
+        "id": "",
+        "product_name": "authoritas 1 code -",
+        "price": "$89",
+        "notes": "",
+        "tier": 1,
+        "reseller": "Rabi Jaiswal",
+        "date": ""
+    },
+    {
+        "id": "",
+        "product_name": "auto featured image ( dealmirror)-",
+        "price": "$49",
+        "notes": "",
+        "tier": 1,
+        "reseller": "Rabi Jaiswal",
+        "date": ""
+    },
+    {
+        "id": "",
+        "product_name": "autowriter 1x -",
+        "price": "$50",
+        "notes": "",
+        "tier": 1,
+        "reseller": "Rabi Jaiswal",
+        "date": ""
+    },
+    {
+        "id": "",
+        "product_name": "backupsheep 1 code 1TB -",
+        "price": "$79",
+        "notes": "",
+        "tier": 1,
+        "reseller": "Rabi Jaiswal",
+        "date": ""
+    },
+    {
+        "id": "",
+        "product_name": "beagle security - 1 code -",
+        "price": "$59",
+        "notes": "",
+        "tier": 1,
+        "reseller": "Rabi Jaiswal",
+        "date": ""
+    },
+    {
+        "id": "",
+        "product_name": "bigvu 1 code -",
+        "price": "$150",
+        "notes": "",
+        "tier": 1,
+        "reseller": "Rabi Jaiswal",
+        "date": ""
+    },
+    {
+        "id": "",
+        "product_name": "biq appsumo plan -",
+        "price": "$59",
+        "notes": "",
+        "tier": 1,
+        "reseller": "Rabi Jaiswal",
+        "date": ""
+    },
+    {
+        "id": "",
+        "product_name": "blogely 1 code -",
+        "price": "$69",
+        "notes": "",
+        "tier": 1,
+        "reseller": "Rabi Jaiswal",
+        "date": ""
+    },
+    {
+        "id": "",
+        "product_name": "boosttools -",
+        "price": "$49",
+        "notes": "",
+        "tier": 1,
+        "reseller": "Rabi Jaiswal",
+        "date": ""
+    },
+    {
+        "id": "",
+        "product_name": "brand over flow -",
+        "price": "$59",
+        "notes": "",
+        "tier": 1,
+        "reseller": "Rabi Jaiswal",
+        "date": ""
+    },
+    {
+        "id": "",
+        "product_name": "Browserbird -",
+        "price": "$59",
+        "notes": "",
+        "tier": 1,
+        "reseller": "Rabi Jaiswal",
+        "date": ""
+    },
+    {
+        "id": "",
+        "product_name": "bunnyshel 2x 6 servers -",
+        "price": "$250",
+        "notes": "",
+        "tier": 1,
+        "reseller": "Rabi Jaiswal",
+        "date": ""
+    },
+    {
+        "id": "",
+        "product_name": "burnermail-",
+        "price": "$80",
+        "notes": "",
+        "tier": 1,
+        "reseller": "Rabi Jaiswal",
+        "date": ""
+    },
+    {
+        "id": "",
+        "product_name": "calendar online-",
+        "price": "$250",
+        "notes": "",
+        "tier": 1,
+        "reseller": "Rabi Jaiswal",
+        "date": ""
+    },
+    {
+        "id": "",
+        "product_name": "calipio 1 code-",
+        "price": "$49",
+        "notes": "",
+        "tier": 1,
+        "reseller": "Rabi Jaiswal",
+        "date": ""
+    },
+    {
+        "id": "",
+        "product_name": "candu 1x -",
+        "price": "$59",
+        "notes": "",
+        "tier": 1,
+        "reseller": "Rabi Jaiswal",
+        "date": ""
+    },
+    {
+        "id": "",
+        "product_name": "Candu 2x -",
+        "price": "$118",
+        "notes": "",
+        "tier": 1,
+        "reseller": "Rabi Jaiswal",
+        "date": ""
+    },
+    {
+        "id": "",
+        "product_name": "chayall 2x appsumo -",
+        "price": "$250",
+        "notes": "",
+        "tier": 1,
+        "reseller": "Rabi Jaiswal",
+        "date": ""
+    },
+    {
+        "id": "",
+        "product_name": "clearify pro -",
+        "price": "$25",
+        "notes": "",
+        "tier": 1,
+        "reseller": "Rabi Jaiswal",
+        "date": ""
+    },
+    {
+        "id": "",
+        "product_name": "cloudfilt appsumo plan -",
+        "price": "$89",
+        "notes": "",
+        "tier": 1,
+        "reseller": "Rabi Jaiswal",
+        "date": ""
+    },
+    {
+        "id": "",
+        "product_name": "contentbot appsumo plan -",
+        "price": "$59",
+        "notes": "",
+        "tier": 1,
+        "reseller": "Rabi Jaiswal",
+        "date": ""
+    },
+    {
+        "id": "",
+        "product_name": "crawliq -",
+        "price": "$150",
+        "notes": "",
+        "tier": 1,
+        "reseller": "Rabi Jaiswal",
+        "date": ""
+    },
+    {
+        "id": "",
+        "product_name": "creative machine 1000 api per month-",
+        "price": "$89",
+        "notes": "",
+        "tier": 1,
+        "reseller": "Rabi Jaiswal",
+        "date": ""
+    },
+    {
+        "id": "",
+        "product_name": "crello",
+        "price": "$90",
+        "notes": "",
+        "tier": 1,
+        "reseller": "Rabi Jaiswal",
+        "date": ""
+    },
+    {
+        "id": "",
+        "product_name": "donedone - 79",
+        "price": "$79",
+        "notes": "",
+        "tier": 1,
+        "reseller": "Rabi Jaiswal",
+        "date": ""
+    },
+    {
+        "id": "",
+        "product_name": "dukaan tier 2-",
+        "price": "$350",
+        "notes": "",
+        "tier": 1,
+        "reseller": "Rabi Jaiswal",
+        "date": ""
+    },
+    {
+        "id": "",
+        "product_name": "dukaan tier 3 -",
+        "price": "$750",
+        "notes": "",
+        "tier": 1,
+        "reseller": "Rabi Jaiswal",
+        "date": ""
+    },
+    {
+        "id": "",
+        "product_name": "Dynapic 4k limit-",
+        "price": 250,
+        "notes": "",
+        "tier": 1,
+        "reseller": "Rabi Jaiswal",
+        "date": ""
+    },
+    {
+        "id": "",
+        "product_name": "Emojise saasmantra plan-",
+        "price": "$49",
+        "notes": "",
+        "tier": 1,
+        "reseller": "Rabi Jaiswal",
+        "date": ""
+    },
+    {
+        "id": "",
+        "product_name": "ewww 3 code account- 499",
+        "price": 499,
+        "notes": "",
+        "tier": 1,
+        "reseller": "Rabi Jaiswal",
+        "date": ""
+    },
+    {
+        "id": "",
+        "product_name": "fastdok-",
+        "price": "$29",
+        "notes": "",
+        "tier": 1,
+        "reseller": "Rabi Jaiswal",
+        "date": ""
+    },
+    {
+        "id": "",
+        "product_name": "feedhive 1 code -",
+        "price": 189,
+        "notes": "",
+        "tier": 1,
+        "reseller": "Rabi Jaiswal",
+        "date": ""
+    },
+    {
+        "id": "",
+        "product_name": "findmy lead -",
+        "price": 100,
+        "notes": "",
+        "tier": 1,
+        "reseller": "Rabi Jaiswal",
+        "date": ""
+    },
+    {
+        "id": "",
+        "product_name": "fleeq business plan 3 users ( no offline download) -",
+        "price": 49,
+        "notes": "",
+        "tier": 1,
+        "reseller": "Rabi Jaiswal",
+        "date": ""
+    },
+    {
+        "id": "",
+        "product_name": "Formaloo tier 3 -",
+        "price": 550,
+        "notes": "",
+        "tier": 1,
+        "reseller": "Rabi Jaiswal",
+        "date": ""
+    },
+    {
+        "id": "",
+        "product_name": "Frase 1x -",
+        "price": 350,
+        "notes": "",
+        "tier": 1,
+        "reseller": "Rabi Jaiswal",
+        "date": ""
+    },
+    {
+        "id": "",
+        "product_name": "glorify early adapter plan 3 users -",
+        "price": 250,
+        "notes": "",
+        "tier": 1,
+        "reseller": "Rabi Jaiswal",
+        "date": ""
+    },
+    {
+        "id": "",
+        "product_name": "go4click -",
+        "price": 100,
+        "notes": "",
+        "tier": 1,
+        "reseller": "Rabi Jaiswal",
+        "date": ""
+    },
+    {
+        "id": "",
+        "product_name": "gobio-",
+        "price": 20,
+        "notes": "",
+        "tier": 1,
+        "reseller": "Rabi Jaiswal",
+        "date": ""
+    },
+    {
+        "id": "",
+        "product_name": "gravitec tier 1 increased limit-",
+        "price": 100,
+        "notes": "",
+        "tier": 1,
+        "reseller": "Rabi Jaiswal",
+        "date": ""
+    },
+    {
+        "id": "",
+        "product_name": "grist 1 code -",
+        "price": 89,
+        "notes": "",
+        "tier": 1,
+        "reseller": "Rabi Jaiswal",
+        "date": ""
+    },
+    {
+        "id": "",
+        "product_name": "gurucan tier 1-",
+        "price": 89,
+        "notes": "",
+        "tier": 1,
+        "reseller": "Rabi Jaiswal",
+        "date": ""
+    },
+    {
+        "id": "",
+        "product_name": "happfiles -",
+        "price": 100,
+        "notes": "",
+        "tier": 1,
+        "reseller": "Rabi Jaiswal",
+        "date": ""
+    },
+    {
+        "id": "",
+        "product_name": "happyform 3 sites -",
+        "price": 49,
+        "notes": "",
+        "tier": 1,
+        "reseller": "Rabi Jaiswal",
+        "date": ""
+    },
+    {
+        "id": "",
+        "product_name": "hoverify -",
+        "price": 100,
+        "notes": "",
+        "tier": 1,
+        "reseller": "Rabi Jaiswal",
+        "date": ""
+    },
+    {
+        "id": "",
+        "product_name": "icedrive 2tb -",
+        "price": 250,
+        "notes": "",
+        "tier": 1,
+        "reseller": "Rabi Jaiswal",
+        "date": ""
+    },
+    {
+        "id": "",
+        "product_name": "ideta 2x -",
+        "price": 150,
+        "notes": "",
+        "tier": 1,
+        "reseller": "Rabi Jaiswal",
+        "date": ""
+    },
+    {
+        "id": "",
+        "product_name": "Jellyreach -",
+        "price": 80,
+        "notes": "",
+        "tier": 1,
+        "reseller": "Rabi Jaiswal",
+        "date": ""
+    },
+    {
+        "id": "",
+        "product_name": "jivochat -not available",
+        "price": 150,
+        "notes": "",
+        "tier": 1,
+        "reseller": "Rabi Jaiswal",
+        "date": ""
+    },
+    {
+        "id": "",
+        "product_name": "Juphy -",
+        "price": 78,
+        "notes": "",
+        "tier": 1,
+        "reseller": "Rabi Jaiswal",
+        "date": ""
+    },
+    {
+        "id": "",
+        "product_name": "Kadence WP",
+        "price": "",
+        "notes": "",
+        "tier": 1,
+        "reseller": "Rabi Jaiswal",
+        "date": ""
+    },
+    {
+        "id": "",
+        "product_name": "kerjamail 20gb-",
+        "price": 100,
+        "notes": "",
+        "tier": 1,
+        "reseller": "Rabi Jaiswal",
+        "date": ""
+    },
+    {
+        "id": "",
+        "product_name": "killerplayer-",
+        "price": 59,
+        "notes": "",
+        "tier": 1,
+        "reseller": "Rabi Jaiswal",
+        "date": ""
+    },
+    {
+        "id": "",
+        "product_name": "labi blog 8 projects -",
+        "price": 199,
+        "notes": "",
+        "tier": 1,
+        "reseller": "Rabi Jaiswal",
+        "date": ""
+    },
+    {
+        "id": "",
+        "product_name": "labidesk -",
+        "price": 100,
+        "notes": "",
+        "tier": 1,
+        "reseller": "Rabi Jaiswal",
+        "date": ""
+    },
+    {
+        "id": "",
+        "product_name": "Labrika 1 code-",
+        "price": 100,
+        "notes": "",
+        "tier": 1,
+        "reseller": "Rabi Jaiswal",
+        "date": ""
+    },
+    {
+        "id": "",
+        "product_name": "leadpal-",
+        "price": 39,
+        "notes": "",
+        "tier": 1,
+        "reseller": "Rabi Jaiswal",
+        "date": ""
+    },
+    {
+        "id": "",
+        "product_name": "melon appsumo plan -",
+        "price": 180,
+        "notes": "",
+        "tier": 1,
+        "reseller": "Rabi Jaiswal",
+        "date": ""
+    },
+    {
+        "id": "",
+        "product_name": "metabox tier 1-",
+        "price": 150,
+        "notes": "",
+        "tier": 1,
+        "reseller": "Rabi Jaiswal",
+        "date": ""
+    },
+    {
+        "id": "",
+        "product_name": "missingltr 25 profiles -",
+        "price": 49,
+        "notes": "",
+        "tier": 1,
+        "reseller": "Rabi Jaiswal",
+        "date": ""
+    },
+    {
+        "id": "",
+        "product_name": "Nimbus - 3x -",
+        "price": 350,
+        "notes": "",
+        "tier": 1,
+        "reseller": "Rabi Jaiswal",
+        "date": ""
+    },
+    {
+        "id": "",
+        "product_name": "optinly-",
+        "price": 100,
+        "notes": "",
+        "tier": 1,
+        "reseller": "Rabi Jaiswal",
+        "date": ""
+    },
+    {
+        "id": "",
+        "product_name": "Paced email - sold",
+        "price": 19,
+        "notes": "",
+        "tier": 1,
+        "reseller": "Rabi Jaiswal",
+        "date": ""
+    },
+    {
+        "id": "",
+        "product_name": "pagemaker 1 code -",
+        "price": 89,
+        "notes": "",
+        "tier": 1,
+        "reseller": "Rabi Jaiswal",
+        "date": ""
+    },
+    {
+        "id": "",
+        "product_name": "peerboard 1x-",
+        "price": 100,
+        "notes": "",
+        "tier": 1,
+        "reseller": "Rabi Jaiswal",
+        "date": ""
+    },
+    {
+        "id": "",
+        "product_name": "peppertype unlmited 25 members-",
+        "price": 750,
+        "notes": "",
+        "tier": 1,
+        "reseller": "Rabi Jaiswal",
+        "date": ""
+    },
+    {
+        "id": "",
+        "product_name": "pixlr-",
+        "price": "",
+        "notes": "",
+        "tier": 1,
+        "reseller": "Rabi Jaiswal",
+        "date": ""
+    },
+    {
+        "id": "",
+        "product_name": "plerdy-",
+        "price": 89,
+        "notes": "",
+        "tier": 1,
+        "reseller": "Rabi Jaiswal",
+        "date": ""
+    },
+    {
+        "id": "",
+        "product_name": "poirot 1 code-",
+        "price": 49,
+        "notes": "",
+        "tier": 1,
+        "reseller": "Rabi Jaiswal",
+        "date": ""
+    },
+    {
+        "id": "",
+        "product_name": "powr 6 websites appsumo plan 2 codes -",
+        "price": 250,
+        "notes": "",
+        "tier": 1,
+        "reseller": "Rabi Jaiswal",
+        "date": ""
+    },
+    {
+        "id": "",
+        "product_name": "publer 2x-",
+        "price": 750,
+        "notes": "",
+        "tier": 1,
+        "reseller": "Rabi Jaiswal",
+        "date": ""
+    },
+    {
+        "id": "",
+        "product_name": "Qlearly -",
+        "price": 29,
+        "notes": "",
+        "tier": 1,
+        "reseller": "Rabi Jaiswal",
+        "date": ""
+    },
+    {
+        "id": "",
+        "product_name": "Qlearly 1X-",
+        "price": 20,
+        "notes": "",
+        "tier": 1,
+        "reseller": "Rabi Jaiswal",
+        "date": ""
+    },
+    {
+        "id": "",
+        "product_name": "quickblog -",
+        "price": 69,
+        "notes": "",
+        "tier": 1,
+        "reseller": "Rabi Jaiswal",
+        "date": ""
+    },
+    {
+        "id": "",
+        "product_name": "quickpop 3 codes unlimited -",
+        "price": 49,
+        "notes": "",
+        "tier": 1,
+        "reseller": "Rabi Jaiswal",
+        "date": ""
+    },
+    {
+        "id": "",
+        "product_name": "quuu 1x -",
+        "price": 69,
+        "notes": "",
+        "tier": 1,
+        "reseller": "Rabi Jaiswal",
+        "date": ""
+    },
+    {
+        "id": "",
+        "product_name": "qwary -",
+        "price": 89,
+        "notes": "",
+        "tier": 1,
+        "reseller": "Rabi Jaiswal",
+        "date": ""
+    },
+    {
+        "id": "",
+        "product_name": "rank tracker appsumo 1 code-",
+        "price": 69,
+        "notes": "",
+        "tier": 1,
+        "reseller": "Rabi Jaiswal",
+        "date": ""
+    },
+    {
+        "id": "",
+        "product_name": "relaythat -",
+        "price": 59,
+        "notes": "",
+        "tier": 1,
+        "reseller": "Rabi Jaiswal",
+        "date": ""
+    },
+    {
+        "id": "",
+        "product_name": "rtila appsumo plan -",
+        "price": 59,
+        "notes": "",
+        "tier": 1,
+        "reseller": "Rabi Jaiswal",
+        "date": ""
+    },
+    {
+        "id": "",
+        "product_name": "Scalify -",
+        "price": 100,
+        "notes": "",
+        "tier": 1,
+        "reseller": "Rabi Jaiswal",
+        "date": ""
+    },
+    {
+        "id": "",
+        "product_name": "Se ranking -",
+        "price": 550,
+        "notes": "",
+        "tier": 1,
+        "reseller": "Rabi Jaiswal",
+        "date": ""
+    },
+    {
+        "id": "",
+        "product_name": "searchiq appsumo plan -",
+        "price": "",
+        "notes": "",
+        "tier": 1,
+        "reseller": "Rabi Jaiswal",
+        "date": ""
+    },
+    {
+        "id": "",
+        "product_name": "sendinblue -",
+        "price": 225,
+        "notes": "",
+        "tier": 1,
+        "reseller": "Rabi Jaiswal",
+        "date": ""
+    },
+    {
+        "id": "",
+        "product_name": "sendlio-",
+        "price": 100,
+        "notes": "",
+        "tier": 1,
+        "reseller": "Rabi Jaiswal",
+        "date": ""
+    },
+    {
+        "id": "",
+        "product_name": "Serpstat -",
+        "price": 130,
+        "notes": "",
+        "tier": 1,
+        "reseller": "Rabi Jaiswal",
+        "date": ""
+    },
+    {
+        "id": "",
+        "product_name": "sheetgo tier 2 -",
+        "price": 250,
+        "notes": "",
+        "tier": 1,
+        "reseller": "Rabi Jaiswal",
+        "date": ""
+    },
+    {
+        "id": "",
+        "product_name": "shorby agency-",
+        "price": 250,
+        "notes": "",
+        "tier": 1,
+        "reseller": "Rabi Jaiswal",
+        "date": ""
+    },
+    {
+        "id": "",
+        "product_name": "sleekinbio-",
+        "price": 20,
+        "notes": "",
+        "tier": 1,
+        "reseller": "Rabi Jaiswal",
+        "date": ""
+    },
+    {
+        "id": "",
+        "product_name": "socialbee 25 accounts-",
+        "price": 250,
+        "notes": "",
+        "tier": 1,
+        "reseller": "Rabi Jaiswal",
+        "date": ""
+    },
+    {
+        "id": "",
+        "product_name": "speedppc 1 code -",
+        "price": 100,
+        "notes": "",
+        "tier": 1,
+        "reseller": "Rabi Jaiswal",
+        "date": ""
+    },
+    {
+        "id": "",
+        "product_name": "Squirrly SEO -",
+        "price": 49,
+        "notes": "",
+        "tier": 1,
+        "reseller": "Rabi Jaiswal",
+        "date": ""
+    },
+    {
+        "id": "",
+        "product_name": "stackable 1 code -",
+        "price": 89,
+        "notes": "",
+        "tier": 1,
+        "reseller": "Rabi Jaiswal",
+        "date": ""
+    },
+    {
+        "id": "",
+        "product_name": "sturppy tier 2 unlimited-",
+        "price": 69,
+        "notes": "",
+        "tier": 1,
+        "reseller": "Rabi Jaiswal",
+        "date": ""
+    },
+    {
+        "id": "",
+        "product_name": "subshero -",
+        "price": 29,
+        "notes": "",
+        "tier": 1,
+        "reseller": "Rabi Jaiswal",
+        "date": ""
+    },
+    {
+        "id": "",
+        "product_name": "superdense -",
+        "price": 30,
+        "notes": "",
+        "tier": 1,
+        "reseller": "Rabi Jaiswal",
+        "date": ""
+    },
+    {
+        "id": "",
+        "product_name": "Swell -",
+        "price": 150,
+        "notes": "",
+        "tier": 1,
+        "reseller": "Rabi Jaiswal",
+        "date": ""
+    },
+    {
+        "id": "",
+        "product_name": "textfoo appsumo plan -",
+        "price": 49,
+        "notes": "",
+        "tier": 1,
+        "reseller": "Rabi Jaiswal",
+        "date": ""
+    },
+    {
+        "id": "",
+        "product_name": "tidycall-",
+        "price": 20,
+        "notes": "",
+        "tier": 1,
+        "reseller": "Rabi Jaiswal",
+        "date": ""
+    },
+    {
+        "id": "",
+        "product_name": "True ranker - - sold",
+        "price": 69,
+        "notes": "",
+        "tier": 1,
+        "reseller": "Rabi Jaiswal",
+        "date": ""
+    },
+    {
+        "id": "",
+        "product_name": "trustmate-",
+        "price": 100,
+        "notes": "",
+        "tier": 1,
+        "reseller": "Rabi Jaiswal",
+        "date": ""
+    },
+    {
+        "id": "",
+        "product_name": "two minute report-",
+        "price": 150,
+        "notes": "",
+        "tier": 1,
+        "reseller": "Rabi Jaiswal",
+        "date": ""
+    },
+    {
+        "id": "",
+        "product_name": "Tyle 1X -",
+        "price": 59,
+        "notes": "",
+        "tier": 1,
+        "reseller": "Rabi Jaiswal",
+        "date": ""
+    },
+    {
+        "id": "",
+        "product_name": "Typehut -",
+        "price": 49,
+        "notes": "",
+        "tier": 1,
+        "reseller": "Rabi Jaiswal",
+        "date": ""
+    },
+    {
+        "id": "",
+        "product_name": "usetrust 2 codes-",
+        "price": 150,
+        "notes": "",
+        "tier": 1,
+        "reseller": "Rabi Jaiswal",
+        "date": ""
+    },
+    {
+        "id": "",
+        "product_name": "uteach 2x -",
+        "price": 150,
+        "notes": "",
+        "tier": 1,
+        "reseller": "Rabi Jaiswal",
+        "date": ""
+    },
+    {
+        "id": "",
+        "product_name": "uuki tier 3-",
+        "price": 250,
+        "notes": "",
+        "tier": 1,
+        "reseller": "Rabi Jaiswal",
+        "date": ""
+    },
+    {
+        "id": "",
+        "product_name": "uuki tier 1-",
+        "price": 79,
+        "notes": "",
+        "tier": 1,
+        "reseller": "Rabi Jaiswal",
+        "date": ""
+    },
+    {
+        "id": "",
+        "product_name": "Vadoo TV 1 code -",
+        "price": 59,
+        "notes": "",
+        "tier": 1,
+        "reseller": "Rabi Jaiswal",
+        "date": ""
+    },
+    {
+        "id": "",
+        "product_name": "vbout tier2 -",
+        "price": 189,
+        "notes": "",
+        "tier": 1,
+        "reseller": "Rabi Jaiswal",
+        "date": ""
+    },
+    {
+        "id": "",
+        "product_name": "Vepaar 2 code",
+        "price": 200,
+        "notes": "",
+        "tier": 2,
+        "reseller": "Rabi Jaiswal",
+        "date": ""
+    },
+    {
+        "id": "",
+        "product_name": "vidstep - 59",
+        "price": 59,
+        "notes": "",
+        "tier": 1,
+        "reseller": "Rabi Jaiswal",
+        "date": ""
+    },
+    {
+        "id": "",
+        "product_name": "wabwave 3 sites -",
+        "price": 59,
+        "notes": "",
+        "tier": 1,
+        "reseller": "Rabi Jaiswal",
+        "date": ""
+    },
+    {
+        "id": "",
+        "product_name": "wawebplus 1 whatsapp number ltd -",
+        "price": 150,
+        "notes": "",
+        "tier": 1,
+        "reseller": "Rabi Jaiswal",
+        "date": ""
+    },
+    {
+        "id": "",
+        "product_name": "Webstarts 2x unlimited websites -",
+        "price": 250,
+        "notes": "",
+        "tier": 1,
+        "reseller": "Rabi Jaiswal",
+        "date": ""
+    },
+    {
+        "id": "",
+        "product_name": "webwave -",
+        "price": 69,
+        "notes": "",
+        "tier": 1,
+        "reseller": "Rabi Jaiswal",
+        "date": ""
+    },
+    {
+        "id": "",
+        "product_name": "Wishlist 10 sites -",
+        "price": 200,
+        "notes": "",
+        "tier": 1,
+        "reseller": "Rabi Jaiswal",
+        "date": ""
+    },
+    {
+        "id": "",
+        "product_name": "Woofunnel autonami ( 1 site ) -",
+        "price": 100,
+        "notes": "",
+        "tier": 1,
+        "reseller": "Rabi Jaiswal",
+        "date": ""
+    },
+    {
+        "id": "",
+        "product_name": "wp code box -",
+        "price": 100,
+        "notes": "",
+        "tier": 1,
+        "reseller": "Rabi Jaiswal",
+        "date": ""
+    },
+    {
+        "id": "",
+        "product_name": "wp poets 2 codes acount -",
+        "price": 200,
+        "notes": "",
+        "tier": 2,
+        "reseller": "Rabi Jaiswal",
+        "date": ""
+    },
+    {
+        "id": "",
+        "product_name": "wpdatatable -  -sold",
+        "price": 79,
+        "notes": "",
+        "tier": 1,
+        "reseller": "Rabi Jaiswal",
+        "date": ""
+    },
+    {
+        "id": "",
+        "product_name": "boost.space -  tier1",
+        "price": 89,
+        "notes": "",
+        "tier": 1,
+        "reseller": "Rabi Jaiswal",
+        "date": ""
+    },
+    {
+        "id": "",
+        "product_name": "Curiosity Tier 1 -",
+        "price": 100,
+        "notes": "",
+        "tier": 1,
+        "reseller": "Rabi Jaiswal",
+        "date": ""
+    },
+    {
+        "id": "",
+        "product_name": "UI-Licious Tier 1-",
+        "price": 100,
+        "notes": "",
+        "tier": 1,
+        "reseller": "Rabi Jaiswal",
+        "date": ""
+    }
+]

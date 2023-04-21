@@ -1,0 +1,12 @@
+<?php
+
+namespace App\Models;
+
+use Illuminate\Database\Eloquent\Factories\HasFactory;
+use Illuminate\Database\Eloquent\Model;
+
+class SaasAgency extends Model
+{
+    use HasFactory;
+    protected $fillable = ['name','website','contact_number','expertise','contact_email','notes'];
+}
